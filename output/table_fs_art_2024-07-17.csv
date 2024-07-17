@@ -1,0 +1,1291 @@
+"title";"item";"level";"langue";"account_type";"page"
+"Investitionsausgaben";5;1;"de";"invest";0
+"Sachanlagen";50;2;"de";"invest";0
+"Grundstücke";500;3;"de";"invest";0
+"Strassen und Verkehrswege";501;3;"de";"invest";0
+"Wasserbau";502;3;"de";"invest";0
+"Übriger Tiefbau";503;3;"de";"invest";0
+"Hochbauten";504;3;"de";"invest";0
+"Waldungen";505;3;"de";"invest";0
+"Mobilien";506;3;"de";"invest";0
+"Übrige Sachanlagen";509;3;"de";"invest";0
+"Investitionsausgaben auf Rechnung Dritter";51;2;"de";"invest";0
+"Grundstücke";510;3;"de";"invest";0
+"Strassen und Verkehrswege";511;3;"de";"invest";0
+"Wasserbau";512;3;"de";"invest";0
+"Übriger Tiefbau";513;3;"de";"invest";0
+"Hochbauten";514;3;"de";"invest";0
+"Waldungen";515;3;"de";"invest";0
+"Mobilien";516;3;"de";"invest";0
+"Übrige Sachanlagen";519;3;"de";"invest";0
+"Immaterielle Anlagen";52;2;"de";"invest";0
+"Software";520;3;"de";"invest";0
+"Lizenzen, Nutzungsrechte, Markenrechte";521;3;"de";"invest";0
+"Übrige immaterielle Anlagen";529;3;"de";"invest";0
+"";53;2;"de";"invest";0
+"Darlehen";54;2;"de";"invest";0
+"Bund";540;3;"de";"invest";0
+"Kantone und Konkordate";541;3;"de";"invest";0
+"Gemeinden und Gemeindezweckverbände";542;3;"de";"invest";0
+"Öffentliche Sozialversicherungen";543;3;"de";"invest";0
+"Öffentliche Unternehmen";544;3;"de";"invest";0
+"Private Unternehmungen";545;3;"de";"invest";1
+"Private Organisationen ohne Erwerbszweck";546;3;"de";"invest";1
+"Private Haushalte";547;3;"de";"invest";1
+"Ausland";548;3;"de";"invest";1
+"";549;3;"de";"invest";1
+"Beteiligungen und Grundkapitalien";55;2;"de";"invest";1
+"Bund";550;3;"de";"invest";1
+"Kantone und Konkordate";551;3;"de";"invest";1
+"Gemeinden und Gemeindezweckverbände";552;3;"de";"invest";1
+"Öffentliche Sozialversicherungen";553;3;"de";"invest";1
+"Öffentliche Unternehmen";554;3;"de";"invest";1
+"Private Unternehmen";555;3;"de";"invest";1
+"Private Organisationen ohne Erwerbszweck";556;3;"de";"invest";1
+"Private Haushalte";557;3;"de";"invest";1
+"Ausland";558;3;"de";"invest";1
+"Eigene Investitionsbeiträge";56;2;"de";"invest";1
+"Bund";560;3;"de";"invest";1
+"Kantone und Konkordate";561;3;"de";"invest";1
+"Gemeinden und Gemeindezweckverbände";562;3;"de";"invest";1
+"Öffentliche Sozialversicherungen";563;3;"de";"invest";1
+"Öffentliche Unternehmen";564;3;"de";"invest";1
+"Private Unternehmen";565;3;"de";"invest";1
+"Private Organisationen ohne Erwerbszweck";566;3;"de";"invest";1
+"Private Haushalte";567;3;"de";"invest";1
+"Ausland";568;3;"de";"invest";1
+"Durchlaufende Investitionsbeiträge";57;2;"de";"invest";1
+"Bund";570;3;"de";"invest";1
+"Kantone und Konkordate";571;3;"de";"invest";1
+"Gemeinden und Gemeindezweckverbände";572;3;"de";"invest";1
+"Öffentliche Sozialversicherungen";573;3;"de";"invest";1
+"Öffentliche Unternehmen";574;3;"de";"invest";2
+"Private Unternehmen";575;3;"de";"invest";2
+"Private Organisationen ohne Erwerbszweck";576;3;"de";"invest";2
+"Privat Haushalte";577;3;"de";"invest";2
+"Ausland";578;3;"de";"invest";2
+"Ausserordentliche Investitionsausgaben";58;2;"de";"invest";2
+"Ausserordentliche Investitionsausgaben für Sachanlagen";580;3;"de";"invest";2
+"Ausserordentliche Investitionsausgaben für immaterielle Anlagen";582;3;"de";"invest";2
+"Ausserordentliche Investitionsausgaben für Darlehen";584;3;"de";"invest";2
+"Ausserordentliche Investitionsausgaben für Beteiligungen und Grundkapitalien";585;3;"de";"invest";2
+"Ausserordentliche Investitionsbeiträge";586;3;"de";"invest";2
+"Übrige ausserordentliche Investitionsausgaben";589;3;"de";"invest";2
+"Übertrag an Bilanz";59;2;"de";"invest";2
+"Passivierungen";590;3;"de";"invest";2
+"";599;3;"de";"invest";2
+"Investitionseinnahmen";6;1;"de";"invest";2
+"Übertragung von Sachanlagen in das Finanzvermögen";60;2;"de";"invest";2
+"Übertragung von Grundstücken";600;3;"de";"invest";2
+"Übertragung von Strassen und Verkehrswegen";601;3;"de";"invest";2
+"Übertragung von Wasserbauten";602;3;"de";"invest";2
+"Übertragung übrige Tiefbauten";603;3;"de";"invest";2
+"Übertragung Hochbauten";604;3;"de";"invest";2
+"Übertragung Waldungen";605;3;"de";"invest";2
+"Übertragung Mobilien";606;3;"de";"invest";2
+"Übertragung übrige Sachanlagen";609;3;"de";"invest";2
+"Rückerstattungen von Investitionsausgaben auf Rechnung Dritter";61;2;"de";"invest";2
+"Grundstücke";610;3;"de";"invest";2
+"Strassen und Verkehrswege";611;3;"de";"invest";2
+"Wasserbau";612;3;"de";"invest";2
+"Tiefbau";613;3;"de";"invest";2
+"Hochbauten";614;3;"de";"invest";3
+"Waldungen";615;3;"de";"invest";3
+"Mobilien";616;3;"de";"invest";3
+"Verschiedene Sachanlagen";619;3;"de";"invest";3
+"Übertragung immaterielle Anlagen ins Finanzvermögen";62;2;"de";"invest";3
+"Software";620;3;"de";"invest";3
+"Lizenzen, Nutzungsrechte, Markenrechte";621;3;"de";"invest";3
+"Übrige immaterielle Anlagen";629;3;"de";"invest";3
+"Investitionsbeiträge für eigene Rechnung";63;2;"de";"invest";3
+"Bund";630;3;"de";"invest";3
+"Kantone und Konkordate";631;3;"de";"invest";3
+"Gemeinde und Gemeindezweckverbände";632;3;"de";"invest";3
+"Öffentliche Sozialversicherungen";633;3;"de";"invest";3
+"Öffentliche Unternehmen";634;3;"de";"invest";3
+"Private Unternehmen";635;3;"de";"invest";3
+"Private Organisationen ohne Erwerbszweck";636;3;"de";"invest";3
+"Private Haushalte";637;3;"de";"invest";3
+"Ausland";638;3;"de";"invest";3
+"Rückzahlung von Darlehen";64;2;"de";"invest";3
+"Bund";640;3;"de";"invest";3
+"Kantone und Konkordate";641;3;"de";"invest";3
+"Gemeinde und Gemeindezweckverbände";642;3;"de";"invest";3
+"Öffentliche Sozialversicherungen";643;3;"de";"invest";3
+"Öffentliche Unternehmen";644;3;"de";"invest";3
+"Private Unternehmen";645;3;"de";"invest";3
+"Private Organisationen ohne Erwerbszweck";646;3;"de";"invest";3
+"Private Haushalte";647;3;"de";"invest";3
+"Ausland";648;3;"de";"invest";3
+"";649;3;"de";"invest";3
+"Übertragung von Beteiligungen";65;2;"de";"invest";3
+"Bund";650;3;"de";"invest";4
+"Kantone und Konkordate";651;3;"de";"invest";4
+"Gemeinde und Gemeindezweckverbände";652;3;"de";"invest";4
+"Öffentliche Sozialversicherungen";653;3;"de";"invest";4
+"Öffentliche Unternehmen";654;3;"de";"invest";4
+"Private Unternehmen";655;3;"de";"invest";4
+"Private Organisationen ohne Erwerbszweck";656;3;"de";"invest";4
+"Private Haushalte";657;3;"de";"invest";4
+"Ausland";658;3;"de";"invest";4
+"Rückzahlung eigener Investitionsbeiträge";66;2;"de";"invest";4
+"Bund";660;3;"de";"invest";4
+"Kantone und Konkordate";661;3;"de";"invest";4
+"Gemeinde und Gemeindezweckverbände";662;3;"de";"invest";4
+"Öffentliche Sozialversicherungen";663;3;"de";"invest";4
+"Öffentliche Unternehmen";664;3;"de";"invest";4
+"Private Unternehmen";665;3;"de";"invest";4
+"Private Organisationen ohne Erwerbszweck";666;3;"de";"invest";4
+"Private Haushalte";667;3;"de";"invest";4
+"Ausland";668;3;"de";"invest";4
+"Durchlaufende Investitionsbeiträge";67;2;"de";"invest";4
+"Bund";670;3;"de";"invest";4
+"Kantone und Konkordate";671;3;"de";"invest";4
+"Gemeinde und Gemeindezweckverbände";672;3;"de";"invest";4
+"Öffentliche Sozialversicherungen";673;3;"de";"invest";4
+"Öffentliche Unternehmen";674;3;"de";"invest";4
+"Private Unternehmen";675;3;"de";"invest";4
+"Private Organisationen ohne Erwerbszweck";676;3;"de";"invest";4
+"Private Haushalte";677;3;"de";"invest";4
+"Ausland";678;3;"de";"invest";4
+"Ausserordentliche Investitionseinnahmen";68;2;"de";"invest";4
+"Ausserordentliche Investitionseinnahmen für Sachanlagen";680;3;"de";"invest";5
+"Ausserordentliche Investitionseinnahmen für immaterielle Anlagen";682;3;"de";"invest";5
+"Ausserordentliche Investitionsbeiträge für eigene Rechnung";683;3;"de";"invest";5
+"Ausserordentliche Rückzahlung von Darlehen";684;3;"de";"invest";5
+"Ausserordentliche Übertragung von Beteiligungen";685;3;"de";"invest";5
+"Ausserordentliche Rückzahlung eigener Investitionsbeiträge";686;3;"de";"invest";5
+"Übrige ausserordentliche Investitionseinnahmen";689;3;"de";"invest";5
+"Übertrag an Bilanz";69;2;"de";"invest";5
+"Aktivierungen";690;3;"de";"invest";5
+"";699;3;"de";"invest";5
+"Dépenses d'investissement";5;1;"fr";"invest";0
+"Immobilisations corporelles";50;2;"fr";"invest";0
+"Terrains";500;3;"fr";"invest";0
+"Routes et voies de communication";501;3;"fr";"invest";0
+"Aménagement des cours d'eau";502;3;"fr";"invest";0
+"Autres travaux de génie civil";503;3;"fr";"invest";0
+"Bâtiments";504;3;"fr";"invest";0
+"Forêts";505;3;"fr";"invest";0
+"Biens meubles";506;3;"fr";"invest";0
+"Autres immobilisations corporelles";509;3;"fr";"invest";0
+"Dépenses d'investissements pour le compte de tiers";51;2;"fr";"invest";0
+"Terrains";510;3;"fr";"invest";0
+"Routes et voies de communication";511;3;"fr";"invest";0
+"Aménagement des cours d'eau";512;3;"fr";"invest";0
+"Autres travaux de génie civil";513;3;"fr";"invest";0
+"Bâtiments";514;3;"fr";"invest";0
+"Forêts";515;3;"fr";"invest";0
+"Biens meubles";516;3;"fr";"invest";0
+"Autres immobilisations corporelles";519;3;"fr";"invest";0
+"Immobilisations incorporelles";52;2;"fr";"invest";0
+"Logiciel";520;3;"fr";"invest";0
+"Licences, droits d'utilisation, droit des marques";521;3;"fr";"invest";0
+"Autres immobilisations incorporelles";529;3;"fr";"invest";0
+"Sans";53;2;"fr";"invest";0
+"Prêts";54;2;"fr";"invest";0
+"Confédération";540;3;"fr";"invest";0
+"Cantons et concordats";541;3;"fr";"invest";0
+"Communes et associations intercommunales";542;3;"fr";"invest";0
+"Assurances sociales publiques";543;3;"fr";"invest";0
+"Entreprises publiques";544;3;"fr";"invest";0
+"Entreprises privées";545;3;"fr";"invest";1
+"Organisations privées à but non lucratif";546;3;"fr";"invest";1
+"Ménages privés";547;3;"fr";"invest";1
+"Etranger";548;3;"fr";"invest";1
+"Sans";549;3;"fr";"invest";1
+"Participations et capital social";55;2;"fr";"invest";1
+"Confédération";550;3;"fr";"invest";1
+"Cantons et concordats";551;3;"fr";"invest";1
+"Communes et associations intercommunales";552;3;"fr";"invest";1
+"Assurances sociales publiques";553;3;"fr";"invest";1
+"Entreprises publiques";554;3;"fr";"invest";1
+"Entreprises privées";555;3;"fr";"invest";1
+"Organisations privées à but non lucratif";556;3;"fr";"invest";1
+"Ménages privés";557;3;"fr";"invest";1
+"Etranger";558;3;"fr";"invest";1
+"Propres subventions d'investissement";56;2;"fr";"invest";1
+"Confédération";560;3;"fr";"invest";1
+"Cantons et concordats";561;3;"fr";"invest";1
+"Communes et associations intercommunales";562;3;"fr";"invest";1
+"Assurances sociales publiques";563;3;"fr";"invest";1
+"Entreprises publiques";564;3;"fr";"invest";1
+"Entreprises privées";565;3;"fr";"invest";1
+"Organisations privées à but non lucratif";566;3;"fr";"invest";1
+"Ménages privés";567;3;"fr";"invest";1
+"Etranger";568;3;"fr";"invest";1
+"Subventions d'investissement à redistribuer";57;2;"fr";"invest";1
+"Confédération";570;3;"fr";"invest";1
+"Cantons et concordats";571;3;"fr";"invest";1
+"Communes et associations intercommunales";572;3;"fr";"invest";1
+"Assurances sociales publiques";573;3;"fr";"invest";1
+"Entreprises publiques";574;3;"fr";"invest";2
+"Entreprises privées";575;3;"fr";"invest";2
+"Organisations privées à but non lucratif";576;3;"fr";"invest";2
+"Ménages privés";577;3;"fr";"invest";2
+"Etranger";578;3;"fr";"invest";2
+"Dépenses d'investissement extraordinaires";58;2;"fr";"invest";2
+"Dépenses d'investissement extraordinaires pour les immobilisations corporelles";580;3;"fr";"invest";2
+"Dépenses d'investissement extraordinaires pour les immobilisations incorporelles";582;3;"fr";"invest";2
+"Dépenses d'investissement extraordinaires pour les prêts";584;3;"fr";"invest";2
+"Dépenses d'investissement extraordinaires pour les participations et le capital social";585;3;"fr";"invest";2
+"Subventions d'investissements extraordinaires";586;3;"fr";"invest";2
+"Autres dépenses d'investissement extraordinaires";589;3;"fr";"invest";2
+"Report au bilan";59;2;"fr";"invest";2
+"Report au bilan";590;3;"fr";"invest";2
+"Sans";599;3;"fr";"invest";2
+"Recettes d'investissement";6;1;"fr";"invest";2
+"Transfert d'immobilisations corporelles dans le patrimoine financier";60;2;"fr";"invest";2
+"Transfert de terrains";600;3;"fr";"invest";2
+"Transfert de routes et voies de communication";601;3;"fr";"invest";2
+"Transfert d’aménagements des cours d'eau";602;3;"fr";"invest";2
+"Transfert d’autres travaux de génie civil";603;3;"fr";"invest";2
+"Transferts de bâtiments";604;3;"fr";"invest";2
+"Transfert de forêts";605;3;"fr";"invest";2
+"Transfert de biens meubles";606;3;"fr";"invest";2
+"Transfert d’autres immobilisations corporelles";609;3;"fr";"invest";2
+"Remboursements de dépenses d'investissement pour le compte de tiers";61;2;"fr";"invest";2
+"Terrains";610;3;"fr";"invest";2
+"Routes et voies de communication";611;3;"fr";"invest";2
+"Aménagement des cours d'eau";612;3;"fr";"invest";2
+"Travaux de génie civil";613;3;"fr";"invest";2
+"Bâtiments";614;3;"fr";"invest";3
+"Forêts";615;3;"fr";"invest";3
+"Biens meubles";616;3;"fr";"invest";3
+"Immobilisations corporelles diverses";619;3;"fr";"invest";3
+"Transfert d'immobilisations incorporelles dans le patrimoine financier";62;2;"fr";"invest";3
+"Logiciel";620;3;"fr";"invest";3
+"Licences, droits d'utilisation, droit des marques";621;3;"fr";"invest";3
+"Autres immobilisations incorporelles";629;3;"fr";"invest";3
+"Subventions d'investissement acquises";63;2;"fr";"invest";3
+"Confédération";630;3;"fr";"invest";3
+"Cantons et concordats";631;3;"fr";"invest";3
+"Communes et associations intercommunales";632;3;"fr";"invest";3
+"Assurances sociales publiques";633;3;"fr";"invest";3
+"Entreprises publiques";634;3;"fr";"invest";3
+"Entreprises privées";635;3;"fr";"invest";3
+"Organisations privées à but non lucratif";636;3;"fr";"invest";3
+"Ménages privés";637;3;"fr";"invest";3
+"Etranger";638;3;"fr";"invest";3
+"Remboursement de prêts";64;2;"fr";"invest";3
+"Confédération";640;3;"fr";"invest";3
+"Cantons et concordats";641;3;"fr";"invest";3
+"Communes et associations intercommunales";642;3;"fr";"invest";3
+"Assurances sociales publiques";643;3;"fr";"invest";3
+"Entreprises publiques";644;3;"fr";"invest";3
+"Entreprises privées";645;3;"fr";"invest";3
+"Organisations privées à but non lucratif";646;3;"fr";"invest";3
+"Ménages privés";647;3;"fr";"invest";3
+"Etranger";648;3;"fr";"invest";3
+"Sans";649;3;"fr";"invest";3
+"Transfert de participations";65;2;"fr";"invest";3
+"Confédération";650;3;"fr";"invest";4
+"Cantons et concordats";651;3;"fr";"invest";4
+"Communes et associations intercommunales";652;3;"fr";"invest";4
+"Assurances sociales publiques";653;3;"fr";"invest";4
+"Entreprises publiques";654;3;"fr";"invest";4
+"Entreprises privées";655;3;"fr";"invest";4
+"Organisations privées à but non lucratif";656;3;"fr";"invest";4
+"Ménages";657;3;"fr";"invest";4
+"Etranger";658;3;"fr";"invest";4
+"Remboursements de propres subventions d'investissement";66;2;"fr";"invest";4
+"Confédération";660;3;"fr";"invest";4
+"Cantons et concordats";661;3;"fr";"invest";4
+"Communes et associations intercommunales";662;3;"fr";"invest";4
+"Assurances sociales publiques";663;3;"fr";"invest";4
+"Entreprises publiques";664;3;"fr";"invest";4
+"Entreprises privées";665;3;"fr";"invest";4
+"Organisations privées à but non lucratif";666;3;"fr";"invest";4
+"Ménages";667;3;"fr";"invest";4
+"Etranger";668;3;"fr";"invest";4
+"Subventions d'investissement à redistribuer";67;2;"fr";"invest";4
+"Confédération";670;3;"fr";"invest";4
+"Cantons et concordats";671;3;"fr";"invest";4
+"Communes et associations intercommunales";672;3;"fr";"invest";4
+"Assurances sociales publiques";673;3;"fr";"invest";4
+"Entreprises publiques";674;3;"fr";"invest";4
+"Entreprises privées";675;3;"fr";"invest";4
+"Organisations privées à but non lucratif";676;3;"fr";"invest";4
+"Ménages privés";677;3;"fr";"invest";4
+"Etranger";678;3;"fr";"invest";4
+"Recettes d'investissement extraordinaires";68;2;"fr";"invest";4
+"Recettes d'investissement extraordinaires pour les immobilisations corporelles";680;3;"fr";"invest";5
+"Recettes d'investissement extraordinaires pour les immobilisations incorporelles";682;3;"fr";"invest";5
+"Subventions d'investissements extraordinaires acquises";683;3;"fr";"invest";5
+"Remboursements extraordinaires de prêts";684;3;"fr";"invest";5
+"Cessions extraordinaires de participations";685;3;"fr";"invest";5
+"Remboursements extraordinaires de propres subventions d'investissement";686;3;"fr";"invest";5
+"Autres recettes d'investissement extraordinaires";689;3;"fr";"invest";5
+"Report au bilan";69;2;"fr";"invest";5
+"Report au bilan";690;3;"fr";"invest";5
+"Sans";699;3;"fr";"invest";5
+"Kurzfristige derivative Finanzinstrumente";1026;4;"de";"erfolg";0
+"Aufwand";3;1;"de";"erfolg";0
+"Personalaufwand";30;2;"de";"erfolg";0
+"Behörden, Kommissionen und Richter";300;3;"de";"erfolg";0
+"Löhne Behörden, Richter und Richterinnen";3000;4;"de";"erfolg";0
+"Vergütungen an Behörden, Richter und Richterinnen";3001;4;"de";"erfolg";0
+"";3009;4;"de";"erfolg";0
+"Löhne des Verwaltungs- und Betriebspersonals";301;3;"de";"erfolg";0
+"Löhne des Verwaltungs- und Betriebspersonals";3010;4;"de";"erfolg";0
+"Löhne der Lehrpersonen";302;3;"de";"erfolg";0
+"Löhne der Lehrpersonen";3020;4;"de";"erfolg";0
+"Temporäre Arbeitskräfte";303;3;"de";"erfolg";0
+"Temporäre Arbeitskräfte";3030;4;"de";"erfolg";0
+"Zulagen";304;3;"de";"erfolg";0
+"Kinder- und Ausbildungszulagen";3040;4;"de";"erfolg";0
+"Verpflegungszulagen";3042;4;"de";"erfolg";0
+"Wohnungszulagen";3043;4;"de";"erfolg";0
+"Übrige Zulagen";3049;4;"de";"erfolg";0
+"Arbeitgebendenbeiträge";305;3;"de";"erfolg";0
+"AG-Beiträge AHV, IV, EO, ALV, Verwaltungskosten";3050;4;"de";"erfolg";0
+"AG-Beiträge an Pensionskassen";3052;4;"de";"erfolg";0
+"AG-Beiträge an Unfallversicherungen";3053;4;"de";"erfolg";0
+"AG-Beiträge an Familienzulagekassen";3054;4;"de";"erfolg";0
+"AG-Beiträge an Krankentaggeldversicherungen";3055;4;"de";"erfolg";0
+"AG-Beiträge an Krankenkassenprämien";3056;4;"de";"erfolg";0
+"Übrige AG-Beiträge";3059;4;"de";"erfolg";0
+"Arbeitgebendenleistungen";306;3;"de";"erfolg";0
+"Ruhegehälter";3060;4;"de";"erfolg";0
+"Renten oder Rentenanteile";3061;4;"de";"erfolg";0
+"Teuerungszulagen auf Renten und Rentenanteilen";3062;4;"de";"erfolg";0
+"Unfallrenten und Rentenablösungen";3063;4;"de";"erfolg";1
+"Überbrückungsrenten";3064;4;"de";"erfolg";1
+"Übrige Arbeitgebendenleistungen";3069;4;"de";"erfolg";1
+"Übriger Personalaufwand";309;3;"de";"erfolg";1
+"Aus- und Weiterbildung des eigenen Personals";3090;4;"de";"erfolg";1
+"Personalwerbung";3091;4;"de";"erfolg";1
+"Übriger Personalaufwand";3099;4;"de";"erfolg";1
+"Sach- und übriger Betriebsaufwand";31;2;"de";"erfolg";1
+"Material- und Warenaufwand";310;3;"de";"erfolg";1
+"Büromaterial";3100;4;"de";"erfolg";1
+"Betriebs-, Verbrauchsmaterial";3101;4;"de";"erfolg";1
+"Drucksachen, Publikationen";3102;4;"de";"erfolg";1
+"Fachliteratur, Zeitschriften";3103;4;"de";"erfolg";1
+"Lehrmittel";3104;4;"de";"erfolg";1
+"Lebensmittel";3105;4;"de";"erfolg";1
+"Medizinisches Material";3106;4;"de";"erfolg";1
+"Übriger Material- und Warenaufwand";3109;4;"de";"erfolg";1
+"Nicht aktivierbare Anlagen";311;3;"de";"erfolg";1
+"Büromöbel und -geräte";3110;4;"de";"erfolg";1
+"Maschinen, Geräte und Fahrzeuge";3111;4;"de";"erfolg";1
+"Kleider, Wäsche, Vorhänge";3112;4;"de";"erfolg";1
+"Hardware";3113;4;"de";"erfolg";1
+"Viehhabe";3115;4;"de";"erfolg";1
+"Medizinische Geräte";3116;4;"de";"erfolg";1
+"Immaterielle Anlagen";3118;4;"de";"erfolg";1
+"Übrige nicht aktivierbare Anlagen";3119;4;"de";"erfolg";1
+"Ver- und Entsorgung Liegenschaften VV";312;3;"de";"erfolg";1
+"Ver- und Entsorgung Liegenschaften VV";3120;4;"de";"erfolg";1
+"Dienstleistungen und Honorare";313;3;"de";"erfolg";1
+"Dienstleistungen Dritter";3130;4;"de";"erfolg";1
+"Planungen und Projektierungen Dritter";3131;4;"de";"erfolg";2
+"Honorare externe Beratungen, Gutachten, Fachexpertisen usw.";3132;4;"de";"erfolg";2
+"Informatik-Nutzungsaufwand";3133;4;"de";"erfolg";2
+"Sachversicherungsprämien";3134;4;"de";"erfolg";2
+"Dienstleistungsaufwand für Personen in Obhut";3135;4;"de";"erfolg";2
+"Dienstleistungsaufwand für privatärztliche Tätigkeit";3136;4;"de";"erfolg";2
+"Steuern und Abgaben";3137;4;"de";"erfolg";2
+"Kurse, Prüfungen und Beratungen";3138;4;"de";"erfolg";2
+"Lehrlingsprüfungen";3139;4;"de";"erfolg";2
+"Baulicher und betrieblicher Unterhalt";314;3;"de";"erfolg";2
+"Unterhalt an Grundstücken";3140;4;"de";"erfolg";2
+"Unterhalt Strassen";3141;4;"de";"erfolg";2
+"Unterhalt Wasserbau";3142;4;"de";"erfolg";2
+"Unterhalt übrige Tiefbauten";3143;4;"de";"erfolg";2
+"Unterhalt Hochbauten, Gebäude";3144;4;"de";"erfolg";2
+"Unterhalt Wald";3145;4;"de";"erfolg";2
+"Unterhalt übrige Sachanlagen";3149;4;"de";"erfolg";2
+"Unterhalt Mobilien und immaterielle Anlagen";315;3;"de";"erfolg";2
+"Unterhalt Büromöbel und -geräte";3150;4;"de";"erfolg";2
+"Unterhalt Maschinen, Geräte, Fahrzeuge";3151;4;"de";"erfolg";2
+"Informatik-Unterhalt (Hardware)";3153;4;"de";"erfolg";2
+"Unterhalt medizinische Geräte";3156;4;"de";"erfolg";2
+"Unterhalt immaterielle Anlagen";3158;4;"de";"erfolg";2
+"Unterhalt übrige mobile Anlagen";3159;4;"de";"erfolg";2
+"Mieten, Leasing, Pachten, Benützungskosten";316;3;"de";"erfolg";2
+"Miete und Pacht Liegenschaften";3160;4;"de";"erfolg";2
+"Mieten, Benützungskosten Anlagen";3161;4;"de";"erfolg";2
+"Raten für operatives Leasing";3162;4;"de";"erfolg";2
+"übrige Mieten und Benützungskosten";3169;4;"de";"erfolg";2
+"Spesenentschädigungen";317;3;"de";"erfolg";2
+"Reisekosten und Spesen";3170;4;"de";"erfolg";3
+"Exkursionen, Schulreisen und Lager";3171;4;"de";"erfolg";3
+"";3179;4;"de";"erfolg";3
+"Wertberichtigungen auf Forderungen";318;3;"de";"erfolg";3
+"Wertberichtigungen auf Forderungen";3180;4;"de";"erfolg";3
+"Tatsächliche Forderungsverluste";3181;4;"de";"erfolg";3
+"";3188;4;"de";"erfolg";3
+"Übriger Betriebsaufwand";319;3;"de";"erfolg";3
+"Schadenersatzleistungen";3190;4;"de";"erfolg";3
+"Abgeltung von Rechten";3192;4;"de";"erfolg";3
+"Übriger Betriebsaufwand";3199;4;"de";"erfolg";3
+"Rüstungsaufwand";32;2;"de";"erfolg";3
+"Abschreibungen Verwaltungsvermögen";33;2;"de";"erfolg";3
+"Abschreibungen Sachanlagen VV";330;3;"de";"erfolg";3
+"Planmässige Abschreibungen Sachanlagen VV";3300;4;"de";"erfolg";3
+"Ausserplanmässige Abschreibungen Sachanlagen VV";3301;4;"de";"erfolg";3
+"";331;3;"de";"erfolg";3
+"Abschreibungen Immaterielle Anlagen";332;3;"de";"erfolg";3
+"Planmässige Abschreibungen immaterielle Anlagen VV";3320;4;"de";"erfolg";3
+"Ausserplanmässige Abschreibungen immaterielle Anlagen VV";3321;4;"de";"erfolg";3
+"";337;3;"de";"erfolg";3
+"";338;3;"de";"erfolg";3
+"Finanzaufwand";34;2;"de";"erfolg";3
+"Zinsaufwand";340;3;"de";"erfolg";3
+"Verzinsung laufende Verbindlichkeiten";3400;4;"de";"erfolg";3
+"Verzinsung Finanzverbindlichkeiten";3401;4;"de";"erfolg";3
+"Übrige Passivzinsen";3409;4;"de";"erfolg";3
+"Realisierte Verluste FV";341;3;"de";"erfolg";3
+"Realisierte Verluste auf Finanzanlagen FV";3410;4;"de";"erfolg";3
+"Realisierte Verluste auf Sach- und immaterielle Anlagen FV";3411;4;"de";"erfolg";3
+"";3412;4;"de";"erfolg";4
+"Übrige realisierte Verluste aus Finanzvermögen";3419;4;"de";"erfolg";4
+"Kapitalbeschaffungs- und Verwaltungskosten";342;3;"de";"erfolg";4
+"Kapitalbeschaffung und  -verwaltung";3420;4;"de";"erfolg";4
+"Liegenschaftenaufwand Finanzvermögen";343;3;"de";"erfolg";4
+"Baulicher Unterhalt Liegenschaften FV";3430;4;"de";"erfolg";4
+"Nicht baulicher Unterhalt Liegenschaften FV";3431;4;"de";"erfolg";4
+"Übriger Liegenschaftsaufwand FV";3439;4;"de";"erfolg";4
+"Wertberichtigungen Anlagen FV";344;3;"de";"erfolg";4
+"Wertberichtigungen Finanzanlagen FV";3440;4;"de";"erfolg";4
+"Wertberichtigung Sach- und immaterielle Anlagen FV";3441;4;"de";"erfolg";4
+"";3449;4;"de";"erfolg";4
+"Übriger Finanzaufwand";349;3;"de";"erfolg";4
+"Übriger Finanzaufwand";3499;4;"de";"erfolg";4
+"Einlagen in Spezialfinanzierungen und Fonds";35;2;"de";"erfolg";4
+"Einlagen in Spezialfinanzierungen und Fonds im Fremdkapital";350;3;"de";"erfolg";4
+"Einlagen in Spezialfinanzierungen des Fremdkapitals";3500;4;"de";"erfolg";4
+"Einlagen in Fonds des Fremdkapitals";3501;4;"de";"erfolg";4
+"Einlagen in Legate und Stiftungen des Fremdkapitals";3502;4;"de";"erfolg";4
+"Einlagen in übrige zweckgebundene Fremdmittel des Fremdkapitals";3503;4;"de";"erfolg";4
+"";3509;4;"de";"erfolg";4
+"Einlagen  in Spezialfinanzierungen und Fonds des Eigenkapitals";351;3;"de";"erfolg";4
+"Einlagen in Spezialfinanzierungen des Eigenkapitals";3510;4;"de";"erfolg";4
+"Einlagen in Fonds des Eigenkapitals";3511;4;"de";"erfolg";4
+"Einlagen in Legate und Stiftungen ohne eigene Rechtspersönlichkeit des Eigenkapitals";3512;4;"de";"erfolg";4
+"";3519;4;"de";"erfolg";4
+"";3529;4;"de";"erfolg";4
+"Transferaufwand";36;2;"de";"erfolg";4
+"Ertragsanteile an Dritte";360;3;"de";"erfolg";4
+"Ertragsanteile an Bund";3600;4;"de";"erfolg";4
+"Ertragsanteile an Kantone und Konkordate";3601;4;"de";"erfolg";5
+"Ertragsanteile an Gemeinden und Gemeindezweckverbände";3602;4;"de";"erfolg";5
+"Ertragsanteile an öffentliche Sozialversicherungen";3603;4;"de";"erfolg";5
+"Ertragsanteile an öffentliche Unternehmen";3604;4;"de";"erfolg";5
+"Entschädigungen an öffentliche Gemeinwesen";361;3;"de";"erfolg";5
+"Entschädigungen an Bund";3610;4;"de";"erfolg";5
+"Entschädigungen an Kantonen und Konkordate";3611;4;"de";"erfolg";5
+"Entschädigungen an Gemeinden und Gemeindezweckverbände";3612;4;"de";"erfolg";5
+"Entschädigungen an öffentliche Sozialversicherungen";3613;4;"de";"erfolg";5
+"Entschädigungen an öffentlichen Unternehmen";3614;4;"de";"erfolg";5
+"";3615;4;"de";"erfolg";5
+"";3616;4;"de";"erfolg";5
+"";3617;4;"de";"erfolg";5
+"";3618;4;"de";"erfolg";5
+"Finanz- und Lastenausgleich";362;3;"de";"erfolg";5
+"an Bund";3620;4;"de";"erfolg";5
+"an Kantone und Konkordate";3621;4;"de";"erfolg";5
+"an Gemeinden und Gemeindezweckverbände";3622;4;"de";"erfolg";5
+"an öffentliche Unternehmen";3624;4;"de";"erfolg";5
+"";3629;4;"de";"erfolg";5
+"Beiträge an öffentliche Gemeinwesen und Dritte";363;3;"de";"erfolg";5
+"Beiträge an den Bund";3630;4;"de";"erfolg";5
+"Beiträge an Kantone und Konkordate";3631;4;"de";"erfolg";5
+"Beiträge an Gemeinden und Gemeindezweckverbände";3632;4;"de";"erfolg";5
+"Beiträge an öffentliche Sozialversicherungen";3633;4;"de";"erfolg";5
+"Beiträge an öffentliche Unternehmen";3634;4;"de";"erfolg";5
+"Beiträge an private Unternehmen";3635;4;"de";"erfolg";5
+"Beiträge an private Organisationen ohne Erwerbszweck";3636;4;"de";"erfolg";5
+"Beiträge an private Haushalte";3637;4;"de";"erfolg";5
+"Beiträge an das Ausland";3638;4;"de";"erfolg";5
+"";3639;4;"de";"erfolg";6
+"Wertberichtigungen Darlehen VV";364;3;"de";"erfolg";6
+"Wertberichtigungen Darlehen VV";3640;4;"de";"erfolg";6
+"";3649;4;"de";"erfolg";6
+"Wertberichtigungen Beteiligungen VV";365;3;"de";"erfolg";6
+"Wertberichtigungen Beteiligungen VV";3650;4;"de";"erfolg";6
+"Abschreibungen Investitionsbeiträge";366;3;"de";"erfolg";6
+"Planmässige Abschreibungen Investitionsbeiträge";3660;4;"de";"erfolg";6
+"Ausserplanmässige Abschreibungen Investitionsbeiträge";3661;4;"de";"erfolg";6
+"Übriger Transferaufwand";369;3;"de";"erfolg";6
+"Übriger Transferaufwand";3690;4;"de";"erfolg";6
+"Rückverteilungen";3699;4;"de";"erfolg";6
+"Durchlaufende Beiträge";37;2;"de";"erfolg";6
+"Durchlaufende Beiträge";370;3;"de";"erfolg";6
+"Durchlaufende Beiträge an den Bund";3700;4;"de";"erfolg";6
+"Durchlaufende Beiträge an Kantone und Konkordate";3701;4;"de";"erfolg";6
+"Durchlaufende Beiträge an Gemeinden und Gemeindezweckverbände";3702;4;"de";"erfolg";6
+"Durchlaufende Beiträge an öffentliche Sozialversicherungen";3703;4;"de";"erfolg";6
+"Durchlaufende Beiträge an öffentliche Unternehmen";3704;4;"de";"erfolg";6
+"Durchlaufende Beiträge an private Unternehmen";3705;4;"de";"erfolg";6
+"Durchlaufende Beiträge an private Organisationen ohne Erwerbszweck";3706;4;"de";"erfolg";6
+"Durchlaufende Beiträge an private Haushalte";3707;4;"de";"erfolg";6
+"Durchlaufende Beiträge ans Ausland";3708;4;"de";"erfolg";6
+"Ausserordentlicher Aufwand";38;2;"de";"erfolg";6
+"Ausserordentlicher Personalaufwand";380;3;"de";"erfolg";6
+"Ausserordentlicher Personalaufwand";3800;4;"de";"erfolg";6
+"";3809;4;"de";"erfolg";6
+"Ausserordentlicher Sach- und Betriebsaufwand";381;3;"de";"erfolg";6
+"Ausserordentlicher Sach- und Betriebsaufwand";3810;4;"de";"erfolg";6
+"Ausserordentlicher Sach- und Betriebsaufwand; Wertberichtigungen";3811;4;"de";"erfolg";6
+"Zusätzliche Abschreibungen";383;3;"de";"erfolg";7
+"Zusätzliche Abschreibungen Sachanlagen VV";3830;4;"de";"erfolg";7
+"Zusätzliche Abschreibungen Immaterielle Anlagen";3832;4;"de";"erfolg";7
+"Zusätzliche Abschreibungen VV, nicht zugeteilt";3839;4;"de";"erfolg";7
+"Ausserordentlicher Finanzaufwand";384;3;"de";"erfolg";7
+"Geldwirksamer ausserordentlicher Finanzaufwand";3840;4;"de";"erfolg";7
+"Buchwirksamer ausserordentlicher Finanzaufwand, a.o. Wertberichtigungen";3841;4;"de";"erfolg";7
+"Ausserordentlicher Transferaufwand";386;3;"de";"erfolg";7
+"Ausserordentlicher Transferaufwand; Bund";3860;4;"de";"erfolg";7
+"Ausserordentlicher Transferaufwand; Kantone";3861;4;"de";"erfolg";7
+"Ausserordentlicher Transferaufwand; Gemeinden";3862;4;"de";"erfolg";7
+"Ausserordentlicher Transferaufwand; öffentliche Sozialversicherungen";3863;4;"de";"erfolg";7
+"Ausserordentlicher Transferaufwand; öffentliche Unternehmen";3864;4;"de";"erfolg";7
+"Ausserordentlicher Transferaufwand; private Unternehmen";3865;4;"de";"erfolg";7
+"Ausserordentlicher Transferaufwand; private Organisationen ohne Erwerbszweck";3866;4;"de";"erfolg";7
+"Ausserordentlicher Transferaufwand; private Haushalte";3867;4;"de";"erfolg";7
+"Ausserordentlicher Transferaufwand; Ausland";3868;4;"de";"erfolg";7
+"Zusätzliche Abschreibungen auf Darlehen, Beteiligungen und Investitions­beiträgen";387;3;"de";"erfolg";7
+"Zusätzliche Abschreibungen  auf Darlehen VV";3874;4;"de";"erfolg";7
+"Zusätzliche Abschreibungen auf Beteiligungen und Grundkapitalien VV";3875;4;"de";"erfolg";7
+"Zusätzliche Abschreibungen auf Investitionsbeiträgen VV";3876;4;"de";"erfolg";7
+"Einlagen in das Eigenkapital";389;3;"de";"erfolg";7
+"";3890;4;"de";"erfolg";7
+"Einlagen in Rücklagen der Globalbudgetbereiche";3892;4;"de";"erfolg";7
+"Einlagen in Vorfinanzierungen des Eigenkapitals";3893;4;"de";"erfolg";7
+"Einlagen in finanzpolitische Reserve";3894;4;"de";"erfolg";7
+"Einlagen in Neubewertungsreserven";3896;4;"de";"erfolg";7
+"Einlage in übriges Eigenkapital";3898;4;"de";"erfolg";7
+"Abtragung Bilanzfehlbetrag";3899;4;"de";"erfolg";7
+"Interne Verrechnungen";39;2;"de";"erfolg";7
+"Material- und Warenbezüge";390;3;"de";"erfolg";8
+"Dienstleistungen";391;3;"de";"erfolg";8
+"Pacht, Mieten, Benützungskosten";392;3;"de";"erfolg";8
+"Betriebs- und Verwaltungskosten";393;3;"de";"erfolg";8
+"kalk. Zinsen und Finanzaufwand";394;3;"de";"erfolg";8
+"planmässige und ausserplanmässige Abschreibungen";395;3;"de";"erfolg";8
+"Übertragungen";398;3;"de";"erfolg";8
+"Übrige interne Verrechnungen";399;3;"de";"erfolg";8
+"Ertrag";4;1;"de";"erfolg";8
+"Fiskalertrag";40;2;"de";"erfolg";8
+"Direkte Steuern natürliche Personen";400;3;"de";"erfolg";8
+"Einkommenssteuern natürliche Personen";4000;4;"de";"erfolg";8
+"Vermögenssteuern natürliche Personen";4001;4;"de";"erfolg";8
+"Quellensteuern natürliche Personen";4002;4;"de";"erfolg";8
+"Personensteuern";4008;4;"de";"erfolg";8
+"Übrige direkte Steuern natürliche Personen";4009;4;"de";"erfolg";8
+"Direkte Steuern juristische Personen";401;3;"de";"erfolg";8
+"Gewinnsteuern juristische Personen";4010;4;"de";"erfolg";8
+"Kapitalssteuern juristische Personen";4011;4;"de";"erfolg";8
+"Quellensteuern juristische Personen";4012;4;"de";"erfolg";8
+"Übrige direkte Steuern juristische Personen";4019;4;"de";"erfolg";8
+"übrige Direkte Steuern";402;3;"de";"erfolg";8
+"Verrechnungssteuer (nur Bund)";4020;4;"de";"erfolg";8
+"Grundsteuern";4021;4;"de";"erfolg";8
+"Vermögensgewinnsteuern";4022;4;"de";"erfolg";8
+"Vermögensverkehrssteuern";4023;4;"de";"erfolg";8
+"Erbschafts- und Schenkungssteuern";4024;4;"de";"erfolg";8
+"Spielbanken- und Spielautomatenabgabe";4025;4;"de";"erfolg";8
+"Besitz- und Aufwandsteuern";403;3;"de";"erfolg";8
+"Verkehrsabgaben";4030;4;"de";"erfolg";8
+"Schiffssteuer";4031;4;"de";"erfolg";9
+"Vergnügungssteuern";4032;4;"de";"erfolg";9
+"Hundesteuer";4033;4;"de";"erfolg";9
+"Übrige Besitz- und Aufwandsteuer";4039;4;"de";"erfolg";9
+"";404;3;"de";"erfolg";9
+"";405;3;"de";"erfolg";9
+"";406;3;"de";"erfolg";9
+"";407;3;"de";"erfolg";9
+"Regalien und Konzessionen";41;2;"de";"erfolg";9
+"Regalien";410;3;"de";"erfolg";9
+"Regalien";4100;4;"de";"erfolg";9
+"Schweiz. Nationalbank";411;3;"de";"erfolg";9
+"Anteil am Reingewinn der SNB";4110;4;"de";"erfolg";9
+"Konzessionen";412;3;"de";"erfolg";9
+"Konzessionen";4120;4;"de";"erfolg";9
+"Ertragsanteile an Lotterien, Sport-Toto, Wetten";413;3;"de";"erfolg";9
+"Ertragsanteile an Lotterien, Sport-Toto, Wetten";4130;4;"de";"erfolg";9
+"Entgelte";42;2;"de";"erfolg";9
+"Ersatzabgaben";420;3;"de";"erfolg";9
+"Ersatzabgaben";4200;4;"de";"erfolg";9
+"Gebühren für Amtshandlungen";421;3;"de";"erfolg";9
+"Gebühren für Amtshandlungen";4210;4;"de";"erfolg";9
+"Spital- und Heimtaxen, Kostgelder";422;3;"de";"erfolg";9
+"Taxen und Kostgelder";4220;4;"de";"erfolg";9
+"Vergütung für besondere Leistungen";4221;4;"de";"erfolg";9
+"";4229;4;"de";"erfolg";9
+"Schul- und Kursgelder";423;3;"de";"erfolg";9
+"Schulgelder";4230;4;"de";"erfolg";9
+"Kursgelder";4231;4;"de";"erfolg";9
+"";4239;4;"de";"erfolg";9
+"Benützungsgebühren und Dienstleistungen";424;3;"de";"erfolg";10
+"Benützungsgebühren und Dienstleistungen";4240;4;"de";"erfolg";10
+"Erlös aus Verkäufen";425;3;"de";"erfolg";10
+"Verkäufe";4250;4;"de";"erfolg";10
+"Rückerstattungen";426;3;"de";"erfolg";10
+"Rückerstattungen und Kostenbeteiligungen Dritter";4260;4;"de";"erfolg";10
+"Bussen";427;3;"de";"erfolg";10
+"Bussen";4270;4;"de";"erfolg";10
+"";428;3;"de";"erfolg";10
+"Übrige Entgelte";429;3;"de";"erfolg";10
+"Übrige Entgelte";4290;4;"de";"erfolg";10
+"Übrige Erträge";43;2;"de";"erfolg";10
+"Übrige betriebliche Erträge";430;3;"de";"erfolg";10
+"Erträge aus privatärztlicher Tätigkeit";4300;4;"de";"erfolg";10
+"Beschlagnahmte Vermögenswerte";4301;4;"de";"erfolg";10
+"Übriger betrieblicher Ertrag";4309;4;"de";"erfolg";10
+"Übertragungen in die Investitionsrechnung";431;3;"de";"erfolg";10
+"Aktivierbare Eigenleistungen auf Sachanlagen";4310;4;"de";"erfolg";10
+"Aktivierbare Eigenleistungen auf immateriellen Anlagen";4311;4;"de";"erfolg";10
+"Aktivierbare Projektierungskosten";4312;4;"de";"erfolg";10
+"";4319;4;"de";"erfolg";10
+"Bestandesveränderungen";432;3;"de";"erfolg";10
+"Bestandesveränderungen Halb- und Fertigfabrikate";4320;4;"de";"erfolg";10
+"Bestandesveränderungen angefangene Arbeiten (Dienstleistungen)";4321;4;"de";"erfolg";10
+"Übrige Bestandesveränderungen";4329;4;"de";"erfolg";10
+"Übriger Ertrag";439;3;"de";"erfolg";10
+"Übriger Ertrag";4390;4;"de";"erfolg";10
+"Aufwertungen VV";4391;4;"de";"erfolg";10
+"Finanzertrag";44;2;"de";"erfolg";10
+"Zinsertrag";440;3;"de";"erfolg";10
+"Zinsen flüssige Mittel";4400;4;"de";"erfolg";11
+"Zinsen Forderungen und Kontokorrente";4401;4;"de";"erfolg";11
+"Zinsen Finanzanlagen";4402;4;"de";"erfolg";11
+"Übrige Zinsen von Finanzvermögen";4409;4;"de";"erfolg";11
+"Realisierte Gewinne FV";441;3;"de";"erfolg";11
+"Gewinne aus Verkäufen von Finanzanlagen FV";4410;4;"de";"erfolg";11
+"Gewinn aus Verkäufen von Sach- und immateriellen Anlagen FV";4411;4;"de";"erfolg";11
+"Übrige realisierte Gewinne aus Finanzvermögen";4419;4;"de";"erfolg";11
+"Beteiligungsertrag FV";442;3;"de";"erfolg";11
+"Dividenden";4420;4;"de";"erfolg";11
+"Übriger Beteiligungsertrag";4429;4;"de";"erfolg";11
+"Liegenschaftenertrag FV";443;3;"de";"erfolg";11
+"Pacht- und Mietzinse Liegenschaften FV";4430;4;"de";"erfolg";11
+"Vergütung für Dienstwohnungen FV";4431;4;"de";"erfolg";11
+"Vergütung für Benützungen Liegenschaften FV";4432;4;"de";"erfolg";11
+"Übriger Liegenschaftenertrag FV";4439;4;"de";"erfolg";11
+"Wertberichtigungen Anlagen FV";444;3;"de";"erfolg";11
+"Wertberichtigungen übrige Finanzanlagen FV";4440;4;"de";"erfolg";11
+"Wertberichtigungen Darle-hen FV";4441;4;"de";"erfolg";11
+"Wertberichtigungen Beteiligungen FV";4442;4;"de";"erfolg";11
+"Wertberichtigungen Liegenschaften FV";4443;4;"de";"erfolg";11
+"Wertberichtigungen übrige Sach- und immaterielle Anlagen FV";4449;4;"de";"erfolg";11
+"Finanzertrag aus  Darlehen und Beteiligungen des VV";445;3;"de";"erfolg";11
+"Erträge aus Darlehen VV";4450;4;"de";"erfolg";11
+"Erträge aus Beteiligungen VV ohne öffentliche Unternehmen";4451;4;"de";"erfolg";11
+"";4459;4;"de";"erfolg";11
+"Finanzertrag von öffentlichen Unternehmen";446;3;"de";"erfolg";11
+"Öffentliche Betriebe des Bundes";4460;4;"de";"erfolg";11
+"Öffentliche Unternehmen der Kantone mit öffentlich-rechtlicher Rechtsform, Konkordate";4461;4;"de";"erfolg";11
+"Zweckverbände, selbständige und unselbständige Gemeindebetriebe";4462;4;"de";"erfolg";11
+"Öffentliche Unternehmen als Aktiengesellschaft oder andere privatrechtliche Organisationsform";4463;4;"de";"erfolg";12
+"Nationalbank";4464;4;"de";"erfolg";12
+"Öffentliche Unternehmen im Ausland";4468;4;"de";"erfolg";12
+"Übrige öffentliche Unternehmen";4469;4;"de";"erfolg";12
+"Liegenschaftenertrag VV";447;3;"de";"erfolg";12
+"Pacht- und Mietzinse Liegenschaften VV";4470;4;"de";"erfolg";12
+"Vergütung Dienstwohnungen VV";4471;4;"de";"erfolg";12
+"Vergütung für Benützungen Liegenschaften VV";4472;4;"de";"erfolg";12
+"Übrige Erträge Liegenschaften VV";4479;4;"de";"erfolg";12
+"Erträge von gemieteten Liegenschaften";448;3;"de";"erfolg";12
+"Mietzinse von gemieteten Liegenschaften";4480;4;"de";"erfolg";12
+"Übrige Erträge von gemieteten Liegenschaften";4489;4;"de";"erfolg";12
+"Übrige Finanzerträge";449;3;"de";"erfolg";12
+"Übriger Finanzertrag";4499;4;"de";"erfolg";12
+"Entnahmen aus Spezialfinanzierungen und Fonds";45;2;"de";"erfolg";12
+"Entnahmen aus Spezialfinanzierungen und Fonds des Fremdkapitals";450;3;"de";"erfolg";12
+"Entnahmen aus Spezialfinanzierungen des Fremdkapitals";4500;4;"de";"erfolg";12
+"Entnahmen aus Fonds des Fremdkapitals";4501;4;"de";"erfolg";12
+"Entnahmen aus Legaten und Stiftungen des Fremdkapitals";4502;4;"de";"erfolg";12
+"Entnahmen aus übrigen zweckgebundenen Fremdmitteln";4503;4;"de";"erfolg";12
+"";4509;4;"de";"erfolg";12
+"Entnahmen aus Spezialfinanzierungen und Fonds des Eigenkapitals";451;3;"de";"erfolg";12
+"Entnahmen aus Spezialfinanzierungen des Eigenkapitals";4510;4;"de";"erfolg";12
+"Entnahmen aus Fonds des Eigenkapitals";4511;4;"de";"erfolg";12
+"Entnahmen aus Legaten und Stiftungen ohne eigene Rechtspersönlichkeit des Eigenkapitals";4512;4;"de";"erfolg";12
+"";4519;4;"de";"erfolg";12
+"";4529;4;"de";"erfolg";12
+"Transferertrag";46;2;"de";"erfolg";12
+"Ertragsanteile von Dritten";460;3;"de";"erfolg";12
+"Anteil an Bundeserträgen";4600;4;"de";"erfolg";12
+"Anteil an Kantonserträgen und Konkordaten";4601;4;"de";"erfolg";13
+"Anteil an Gemeindeerträgen und Gemeindezweckverbände";4602;4;"de";"erfolg";13
+"Anteil an Erträgen öffentlicher Sozialversicherungs-anstalten";4603;4;"de";"erfolg";13
+"Anteile an Erträgen öffentlicher Unternehmen";4604;4;"de";"erfolg";13
+"Entschädigungen von öffentlichen Gemeinwesen";461;3;"de";"erfolg";13
+"Entschädigungen vom Bund";4610;4;"de";"erfolg";13
+"Entschädigungen von Kantonen und Konkordaten";4611;4;"de";"erfolg";13
+"Entschädigungen von Gemeinden und Gemeindezweckverbänden";4612;4;"de";"erfolg";13
+"Entschädigungen von öffentlichen Sozialversicherungen";4613;4;"de";"erfolg";13
+"Entschädigungen von öffentlichen Unternehmen";4614;4;"de";"erfolg";13
+"";4615;4;"de";"erfolg";13
+"";4616;4;"de";"erfolg";13
+"";4617;4;"de";"erfolg";13
+"";4618;4;"de";"erfolg";13
+"Finanz- und Lastenausgleich";462;3;"de";"erfolg";13
+"vom Bund";4620;4;"de";"erfolg";13
+"von Kantonen und Konkordaten";4621;4;"de";"erfolg";13
+"von Gemeinden und Gemeindezweckverbänden";4622;4;"de";"erfolg";13
+"von öffentlichen Unternehmen";4624;4;"de";"erfolg";13
+"";4629;4;"de";"erfolg";13
+"Beiträge von öffentlichen Gemeinwesen und Dritten";463;3;"de";"erfolg";13
+"Beiträge vom Bund";4630;4;"de";"erfolg";13
+"Beiträge von Kantonen und Konkordaten";4631;4;"de";"erfolg";13
+"Beiträge von Gemeinden und Gemeindezweckverbänden";4632;4;"de";"erfolg";13
+"Beiträge von öffentlichen Sozialversicherungen";4633;4;"de";"erfolg";13
+"Beiträge von öffentlichen Unternehmen";4634;4;"de";"erfolg";13
+"Beiträge von privaten Unternehmen";4635;4;"de";"erfolg";13
+"Beiträge von privaten Organisationen ohne Erwerbszweck";4636;4;"de";"erfolg";13
+"Beiträge von privaten Haushalten";4637;4;"de";"erfolg";13
+"Beiträge aus dem Ausland";4638;4;"de";"erfolg";13
+"Auflösung passivierte Investitionsbeiträge";466;3;"de";"erfolg";14
+"planmässige Auflösung passivierter Investitionsbeiträge";4660;4;"de";"erfolg";14
+"Ausserplanmässige Auflösungen passivierter Investitionsbeiträge";4661;4;"de";"erfolg";14
+"Übriger Transferertrag";469;3;"de";"erfolg";14
+"Übriger Transferertrag";4690;4;"de";"erfolg";14
+"Rückverteilungen";4699;4;"de";"erfolg";14
+"Durchlaufende Beiträge";47;2;"de";"erfolg";14
+"Durchlaufende Beiträge";470;3;"de";"erfolg";14
+"Durchlaufende Beiträge vom Bund";4700;4;"de";"erfolg";14
+"Durchlaufende Beiträge von Kantonen und Konkordaten";4701;4;"de";"erfolg";14
+"Durchlaufende Beiträge von Gemeinden und Gemeindezweckverbänden";4702;4;"de";"erfolg";14
+"Durchlaufende Beiträge von öffentlichen Sozialversicherungen";4703;4;"de";"erfolg";14
+"Durchlaufende Beiträge von öffentlichen Unternehmen";4704;4;"de";"erfolg";14
+"Durchlaufende Beiträge von privaten Unternehmen";4705;4;"de";"erfolg";14
+"Durchlaufende Beiträge von privaten Organisationen ohne Erwerbszweck";4706;4;"de";"erfolg";14
+"Durchlaufende Beiträge von privaten Haushalten";4707;4;"de";"erfolg";14
+"Durchlaufende Beiträge aus dem Ausland";4708;4;"de";"erfolg";14
+"Ausserordentlicher Ertrag";48;2;"de";"erfolg";14
+"";4809;4;"de";"erfolg";14
+"Ausserordentliche Erträge von Regalien, Konzessionen";481;3;"de";"erfolg";14
+"Ausserordentliche Regalienerträge";4810;4;"de";"erfolg";14
+"Ausserordentliche Konzessionserträge";4811;4;"de";"erfolg";14
+"Ausserordentliche Entgelte";482;3;"de";"erfolg";14
+"Ausserordentliche verschiedene Erträge";483;3;"de";"erfolg";14
+"Ausserordentliche Finanzerträge";484;3;"de";"erfolg";14
+"Geldwirksamer ausserordentlicher Finanzertrag";4840;4;"de";"erfolg";14
+"Buchmässiger ausserordentlicher Finanzertrag, ausserordentliche Wertberichtigungen";4841;4;"de";"erfolg";14
+"Ausserordentliche Transfererträge";486;3;"de";"erfolg";14
+"Ausserordentliche Transfererträge; Bund";4860;4;"de";"erfolg";14
+"Ausserordentliche Transfererträge; Kantone";4861;4;"de";"erfolg";14
+"Ausserordentliche Transfererträge; Gemeinden";4862;4;"de";"erfolg";15
+"Ausserordentliche Transfererträge; öffentliche Sozialversicherungen";4863;4;"de";"erfolg";15
+"Ausserordentliche Transfererträge; öffentliche Unternehmen";4864;4;"de";"erfolg";15
+"Ausserordentliche Transfererträge; private Unternehmen";4865;4;"de";"erfolg";15
+"Ausserordentliche Transfererträge; private Organisationen ohne Erwerbszweck";4866;4;"de";"erfolg";15
+"Ausserordentliche Transfererträge; private Haushalte";4867;4;"de";"erfolg";15
+"Ausserordentliche Transfererträge; Ausland";4868;4;"de";"erfolg";15
+"Zusätzliche Auflösung passivierter Investitionsbeiträge";487;3;"de";"erfolg";15
+"Zusätzliche Auflösung passivierter Investitionsbeiträge";4870;4;"de";"erfolg";15
+"Entnahmen aus dem Eigenkapital";489;3;"de";"erfolg";15
+"";4890;4;"de";"erfolg";15
+"Entnahmen aus Rücklagen der Globalbudgetbereiche";4892;4;"de";"erfolg";15
+"Entnahmen aus Vorfinanzierungen des EK";4893;4;"de";"erfolg";15
+"Entnahme aus finanzpolitischer Reserve";4894;4;"de";"erfolg";15
+"Entnahmen aus Aufwertungsreserve";4895;4;"de";"erfolg";15
+"Entnahmen aus Neubewertungsreserven";4896;4;"de";"erfolg";15
+"Entnahmen übriges Eigenkapital";4898;4;"de";"erfolg";15
+"Entnahmen aus dem kumulier­ten Ergebnis der Vorjahre";4899;4;"de";"erfolg";15
+"Interne Verrechnungen";49;2;"de";"erfolg";15
+"Material- und Warenbezüge";490;3;"de";"erfolg";15
+"Dienstleistungen";491;3;"de";"erfolg";15
+"Pacht, Mieten, Benützungskosten";492;3;"de";"erfolg";15
+"Betriebs- und Verwaltungskosten";493;3;"de";"erfolg";15
+"kalk. Zinsen und Finanzaufwand";494;3;"de";"erfolg";15
+"planmässige und ausserplanmässige Abschreibungen";495;3;"de";"erfolg";15
+"Übertragungen";498;3;"de";"erfolg";15
+"Übrige interne Verrechnungen";499;3;"de";"erfolg";15
+"Abschlusskonten";9;1;"de";"erfolg";15
+"Abschluss allgemeiner Haushalt";900;3;"de";"erfolg";15
+"Ertragsüberschuss";9000;4;"de";"erfolg";15
+"Aufwandüberschuss";9001;4;"de";"erfolg";16
+"Abschluss Spezialfinanzierungen und Fonds des Eigenkapitals, Ertragsüberschuss";9010;4;"de";"erfolg";16
+"Abschluss Spezialfinanzierungen und Fonds des Eigenkapitals, Aufwandüberschuss";9011;4;"de";"erfolg";16
+"Abschluss Legate und Stiftungen ohne eigene Rechtspersönlichkeit des Eigenkapitals, Ertragsüberschuss";9020;4;"de";"erfolg";16
+"Abschluss Legate und Stiftungen ohne eigene Rechtspersönlichkeit des Eigenkapitals, Aufwandüberschuss";9021;4;"de";"erfolg";16
+"Instruments financiers dérivés à court terme";1026;4;"fr";"erfolg";0
+"Charges";3;1;"fr";"erfolg";0
+"Charges de personnel";30;2;"fr";"erfolg";0
+"Autorités, commissions et juges";300;3;"fr";"erfolg";0
+"Salaires des autorités et juges";3000;4;"fr";"erfolg";0
+"Paiements aux autorités et juges";3001;4;"fr";"erfolg";0
+"Sans";3009;4;"fr";"erfolg";0
+"Salaires du personnel administratif et d'exploitation";301;3;"fr";"erfolg";0
+"Salaires du personnel administratif et d'exploitation";3010;4;"fr";"erfolg";0
+"Salaires des enseignants";302;3;"fr";"erfolg";0
+"Salaires des enseignants";3020;4;"fr";"erfolg";0
+"Travailleurs temporaires";303;3;"fr";"erfolg";0
+"Travailleurs temporaires";3030;4;"fr";"erfolg";0
+"Allocations";304;3;"fr";"erfolg";0
+"Allocations pour enfants et allocations de formation";3040;4;"fr";"erfolg";0
+"Indemnités de repas";3042;4;"fr";"erfolg";0
+"Indemnités de logement";3043;4;"fr";"erfolg";0
+"Autres Indemnités";3049;4;"fr";"erfolg";0
+"Cotisations ce l'employeur";305;3;"fr";"erfolg";0
+"Cotisations de l'employeur AVS, APG, AC, frais administratifs";3050;4;"fr";"erfolg";0
+"Cotisations de l'employeur aux caisses de pensions";3052;4;"fr";"erfolg";0
+"Cotisations de l'empoyeur aux assurances-accidents";3053;4;"fr";"erfolg";0
+"Cotisations de l'employeur aux caisses d'allocations familiales";3054;4;"fr";"erfolg";0
+"Cotisations de l'employeur aux assurances d'indemnité journalière maladie";3055;4;"fr";"erfolg";0
+"Cotisations de l'employeur aux primes de caisses maladie";3056;4;"fr";"erfolg";0
+"Autres cotisations de l'employeur";3059;4;"fr";"erfolg";0
+"Prestations de l'employeur";306;3;"fr";"erfolg";0
+"Pensions";3060;4;"fr";"erfolg";0
+"Rentes ou parts de rente";3061;4;"fr";"erfolg";0
+"Allocations de renchérissement sur rentes et parts de rente";3062;4;"fr";"erfolg";0
+"Rentes d'accident et successions de rentes";3063;4;"fr";"erfolg";1
+"Rentes transitoires";3064;4;"fr";"erfolg";1
+"Autres prestations de l’employeur";3069;4;"fr";"erfolg";1
+"Autres charges de personnel";309;3;"fr";"erfolg";1
+"Formation et perfectionnement du personnel";3090;4;"fr";"erfolg";1
+"Recrutement du personnel";3091;4;"fr";"erfolg";1
+"Autres charges de personnel";3099;4;"fr";"erfolg";1
+"Charges de biens et services et autres charges d'exploitation";31;2;"fr";"erfolg";1
+"Charges de matières et de marchandises";310;3;"fr";"erfolg";1
+"Matériel de bureau";3100;4;"fr";"erfolg";1
+"Matériel d'exploitation, fournitures";3101;4;"fr";"erfolg";1
+"Imprimés, publications";3102;4;"fr";"erfolg";1
+"Littérature spécialisée, magazines";3103;4;"fr";"erfolg";1
+"Matériel didactique";3104;4;"fr";"erfolg";1
+"Denrées alimentaires";3105;4;"fr";"erfolg";1
+"Matériel médical";3106;4;"fr";"erfolg";1
+"Autres charges de matériel et de marchandises";3109;4;"fr";"erfolg";1
+"Immobilisations ne pouvant être portées à l'actif";311;3;"fr";"erfolg";1
+"Meubles et appareils de bureau";3110;4;"fr";"erfolg";1
+"Machines, appareils et véhicules";3111;4;"fr";"erfolg";1
+"Vêtements, linge, rideaux";3112;4;"fr";"erfolg";1
+"Matériel informatique";3113;4;"fr";"erfolg";1
+"Bétail";3115;4;"fr";"erfolg";1
+"Appareils médicaux";3116;4;"fr";"erfolg";1
+"Immobilisations incorporelles";3118;4;"fr";"erfolg";1
+"Autres immobilisations ne pouvant êtres portées à l'actif";3119;4;"fr";"erfolg";1
+"Alimentation et élimination, biens-fonds, PA";312;3;"fr";"erfolg";1
+"Alimentation et élimination, biens-fonds, PA";3120;4;"fr";"erfolg";1
+"Prestations de service et honoraires";313;3;"fr";"erfolg";1
+"Prestations de services de tiers";3130;4;"fr";"erfolg";1
+"Planifications et projections de tiers";3131;4;"fr";"erfolg";2
+"Honoraires conseils externes, expertises, spécialistes, etc.";3132;4;"fr";"erfolg";2
+"Charges d'utilisations informatiques";3133;4;"fr";"erfolg";2
+"Primes d'assurances choses";3134;4;"fr";"erfolg";2
+"Charges de prestations de service pour personnes en garde";3135;4;"fr";"erfolg";2
+"Charges de prestations pour l'activité de médecine privée";3136;4;"fr";"erfolg";2
+"Impôts et taxes";3137;4;"fr";"erfolg";2
+"Cours, examens et conseils";3138;4;"fr";"erfolg";2
+"Examens de fin d'apprentissage";3139;4;"fr";"erfolg";2
+"Gros entretien et entretien courant";314;3;"fr";"erfolg";2
+"Entretien des terrains";3140;4;"fr";"erfolg";2
+"Entretien des routes";3141;4;"fr";"erfolg";2
+"Entretien des aménagements de cours d'eau";3142;4;"fr";"erfolg";2
+"Entretien d'autres travaux de génie civil";3143;4;"fr";"erfolg";2
+"Entretien des bâtiments, immeubles";3144;4;"fr";"erfolg";2
+"Entretien des forêts";3145;4;"fr";"erfolg";2
+"Entretien d'autres immobilisations corporelles";3149;4;"fr";"erfolg";2
+"Entretien des biens meubles et immobilisations incorporelles";315;3;"fr";"erfolg";2
+"Entretien de meubles et appareils de bureau";3150;4;"fr";"erfolg";2
+"Entretien de machines, appareils, véhicules";3151;4;"fr";"erfolg";2
+"Entretien informatique (matériel)";3153;4;"fr";"erfolg";2
+"Entretien des appareils médicaux";3156;4;"fr";"erfolg";2
+"Entretien des immobilisations incorporelles";3158;4;"fr";"erfolg";2
+"Entretien d'autres biens meubles";3159;4;"fr";"erfolg";2
+"Loyers, leasing, baux à ferme, frais d'utilisation";316;3;"fr";"erfolg";2
+"Loyer et bail à ferme des biens-fonds";3160;4;"fr";"erfolg";2
+"Loyers, frais d'utilisation des immobilisations";3161;4;"fr";"erfolg";2
+"Taux de leasing opérationnel";3162;4;"fr";"erfolg";2
+"Autres loyers et frais d'utilisation";3169;4;"fr";"erfolg";2
+"Dédommagements";317;3;"fr";"erfolg";2
+"Frais de déplacement et autres frais";3170;4;"fr";"erfolg";3
+"Excursions, voyages scolaires et camps";3171;4;"fr";"erfolg";3
+"Sans";3179;4;"fr";"erfolg";3
+"Réévaluations sur créances";318;3;"fr";"erfolg";3
+"Réévaluations sur créances";3180;4;"fr";"erfolg";3
+"Pertes sur créance effectives";3181;4;"fr";"erfolg";3
+"Sans";3188;4;"fr";"erfolg";3
+"Autres charges d'exploitation";319;3;"fr";"erfolg";3
+"Prestations de dommages et intérêts";3190;4;"fr";"erfolg";3
+"Indemnisation de droits";3192;4;"fr";"erfolg";3
+"Autres charges d'exploitation";3199;4;"fr";"erfolg";3
+"Charges d'armement";32;2;"fr";"erfolg";3
+"Amortissements du patrimoine administratif";33;2;"fr";"erfolg";3
+"Amortissements des immobilisations corporelles PA";330;3;"fr";"erfolg";3
+"Amortissements planifiés des immobilisations corporelles PA";3300;4;"fr";"erfolg";3
+"Amortissements non planifiés des immobilisations corporelles PA";3301;4;"fr";"erfolg";3
+"Sans";331;3;"fr";"erfolg";3
+"Amortissements des immobilisations incorporelles";332;3;"fr";"erfolg";3
+"Amortissements planifiés des immobilisations incorporelles PA";3320;4;"fr";"erfolg";3
+"Amortissements non planifiés des immobilisations incorporelles PA";3321;4;"fr";"erfolg";3
+"Sans";337;3;"fr";"erfolg";3
+"Sans";338;3;"fr";"erfolg";3
+"Charges financières";34;2;"fr";"erfolg";3
+"Charges d'intérêt";340;3;"fr";"erfolg";3
+"Intérêts passifs des engagements courants";3400;4;"fr";"erfolg";3
+"Intérêts passifs des engagements financiers";3401;4;"fr";"erfolg";3
+"Autres intérêts passifs";3409;4;"fr";"erfolg";3
+"Pertes réalisées sur PF";341;3;"fr";"erfolg";3
+"Pertes réalisées sur les placements financiers PF";3410;4;"fr";"erfolg";3
+"Pertes réalisées sur immobilisations corporelles et incorporelles PF";3411;4;"fr";"erfolg";3
+"Sans";3412;4;"fr";"erfolg";4
+"Autres pertes réalisées à partir du patrimoine financier";3419;4;"fr";"erfolg";4
+"Frais d'approvisionnement en capitaux et frais administratifs";342;3;"fr";"erfolg";4
+"Acquisition et administration de capital";3420;4;"fr";"erfolg";4
+"Charges pour biens-fonds, patrimoine financier";343;3;"fr";"erfolg";4
+"Travaux d'entretien, biens-fonds PF";3430;4;"fr";"erfolg";4
+"Entretien courant, biens-fonds PF";3431;4;"fr";"erfolg";4
+"Autres charges des biens-fonds PF";3439;4;"fr";"erfolg";4
+"Réévaluations, immobilisations PF";344;3;"fr";"erfolg";4
+"Réévaluations - Placements financiers PF";3440;4;"fr";"erfolg";4
+"Réévaluation - Immobilisations corporelles et incorporelles PF";3441;4;"fr";"erfolg";4
+"Sans";3449;4;"fr";"erfolg";4
+"Autres charges financières";349;3;"fr";"erfolg";4
+"Autres charges financières";3499;4;"fr";"erfolg";4
+"Attributions aux financements spéciaux et fonds";35;2;"fr";"erfolg";4
+"Attributions aux financements spéciaux et fonds sous capitaux de tiers";350;3;"fr";"erfolg";4
+"Attributions aux financements spéciaux sous capitaux de tiers";3500;4;"fr";"erfolg";4
+"Attributions aux fonds sous capitaux de tiers";3501;4;"fr";"erfolg";4
+"Attributions aux legs et fondations sous capitaux de tiers";3502;4;"fr";"erfolg";4
+"Attributions à d’autres capitaux de tiers affectés";3503;4;"fr";"erfolg";4
+"Sans";3509;4;"fr";"erfolg";4
+"Attributions aux financements spéciaux et fonds sous capital propre";351;3;"fr";"erfolg";4
+"Attributions aux financements spéciaux sous capital propre";3510;4;"fr";"erfolg";4
+"Attributions aux fonds sous capital propre";3511;4;"fr";"erfolg";4
+"Attributions aux legs et fondations sans personnalité juridique sous capital propre";3512;4;"fr";"erfolg";4
+"Sans";3519;4;"fr";"erfolg";4
+"Sans";3529;4;"fr";"erfolg";4
+"Charges de transfert";36;2;"fr";"erfolg";4
+"Parts de revenus destinées à des tiers";360;3;"fr";"erfolg";4
+"Parts de revenus destinées à la Confédération";3600;4;"fr";"erfolg";4
+"Parts de revenus destinées aux cantons et aux concordats";3601;4;"fr";"erfolg";5
+"Parts de revenus destinées aux communes et aux groupes intercommunaux";3602;4;"fr";"erfolg";5
+"Parts de revenus destinées aux assurances sociales publiques";3603;4;"fr";"erfolg";5
+"Parts de revenus destinées aux entreprises publiques";3604;4;"fr";"erfolg";5
+"Dédommagements à des collectivités publiques";361;3;"fr";"erfolg";5
+"Dédommagements à la Confédération";3610;4;"fr";"erfolg";5
+"Dédommagements aux cantons et aux concordats";3611;4;"fr";"erfolg";5
+"Dédommagements aux communes et aux syndicats intercommunaux";3612;4;"fr";"erfolg";5
+"Dédommagements aux assurances sociales publiques";3613;4;"fr";"erfolg";5
+"Dédommagements aux entreprises publiques";3614;4;"fr";"erfolg";5
+"Sans";3615;4;"fr";"erfolg";5
+"Sans";3616;4;"fr";"erfolg";5
+"Sans";3617;4;"fr";"erfolg";5
+"Sans";3618;4;"fr";"erfolg";5
+"Péréquation financière et compensation des charges";362;3;"fr";"erfolg";5
+"à la Confédération";3620;4;"fr";"erfolg";5
+"aux cantons et concordats";3621;4;"fr";"erfolg";5
+"Aux communes et aux associations intercommunales";3622;4;"fr";"erfolg";5
+"Aux entreprises publiques";3624;4;"fr";"erfolg";5
+"Sans";3629;4;"fr";"erfolg";5
+"Subventions à des collectivités publiques et à des tiers";363;3;"fr";"erfolg";5
+"Subventions à la Confédération";3630;4;"fr";"erfolg";5
+"Subventions accordées aux cantons et aux concordats";3631;4;"fr";"erfolg";5
+"Subventions accordées aux communes et aux groupes intercommunaux";3632;4;"fr";"erfolg";5
+"Subventions accordées aux assurances sociales publiques";3633;4;"fr";"erfolg";5
+"Subventions accordées aux entreprises publiques";3634;4;"fr";"erfolg";5
+"Subventions accordées aux entreprises privées";3635;4;"fr";"erfolg";5
+"Subventions accordées aux organisations privées à but non lucratif";3636;4;"fr";"erfolg";5
+"Subventions accordées aux ménages privés";3637;4;"fr";"erfolg";5
+"Subventions à redistribuer à l'étranger";3638;4;"fr";"erfolg";5
+"Sans";3639;4;"fr";"erfolg";6
+"Réévaluations, emprunts PA";364;3;"fr";"erfolg";6
+"Réévaluations, prêts PA";3640;4;"fr";"erfolg";6
+"Sans";3649;4;"fr";"erfolg";6
+"Réévaluations, participations PA";365;3;"fr";"erfolg";6
+"Réévaluations, participations PA";3650;4;"fr";"erfolg";6
+"Amortissements des subventions d'investissements";366;3;"fr";"erfolg";6
+"Amortissements planifiés des subventions d'investissements";3660;4;"fr";"erfolg";6
+"Amortissements non planifiés des subventions d'investissements";3661;4;"fr";"erfolg";6
+"Autres charges de transferts";369;3;"fr";"erfolg";6
+"Autres charges de transfert";3690;4;"fr";"erfolg";6
+"Redistributions";3699;4;"fr";"erfolg";6
+"Subventions à redistribuer";37;2;"fr";"erfolg";6
+"Subventions à redistribuer";370;3;"fr";"erfolg";6
+"Subventions redistribuées à la Confédération";3700;4;"fr";"erfolg";6
+"Subventions redistribuées aux cantons et concordats";3701;4;"fr";"erfolg";6
+"Subventions redistribuées aux communes et associations intercommunales";3702;4;"fr";"erfolg";6
+"Subventions redistribuées aux assurances sociales publiques";3703;4;"fr";"erfolg";6
+"Subventions redistribuées aux entreprises publiques";3704;4;"fr";"erfolg";6
+"Subventions redistribuées aux entreprises privées";3705;4;"fr";"erfolg";6
+"Subentions à redistribuées aux organisations privées à but non lucratif";3706;4;"fr";"erfolg";6
+"Subventions redistribuées aux ménages privés";3707;4;"fr";"erfolg";6
+"Subventions redistribuées à l'étranger";3708;4;"fr";"erfolg";6
+"Charges extraordinaires";38;2;"fr";"erfolg";6
+"Charges de personnel extraordinaires";380;3;"fr";"erfolg";6
+"Charges de personnel extraordinaires";3800;4;"fr";"erfolg";6
+"Sans";3809;4;"fr";"erfolg";6
+"Charges extraordinaires de biens, services et charges d'exploitation";381;3;"fr";"erfolg";6
+"Charges extraordinaires de biens, services et charges d'exploitation";3810;4;"fr";"erfolg";6
+"Charges extraordinaires de biens, services et charges d'exploitation ; réévaluations";3811;4;"fr";"erfolg";6
+"Amortissements supplémentaires";383;3;"fr";"erfolg";7
+"Amortissements supplémentaires des immobilisations corporelles PA";3830;4;"fr";"erfolg";7
+"Amortissements supplémentaires des immobilisations incorporelles";3832;4;"fr";"erfolg";7
+"Amortissements supplémentaires du PA, non attribués";3839;4;"fr";"erfolg";7
+"Charges financières extraordinaires";384;3;"fr";"erfolg";7
+"Charges financières monétaires extraordinaires";3840;4;"fr";"erfolg";7
+"Charges financières comptables extraordinaires, réévaluations extraordinaires";3841;4;"fr";"erfolg";7
+"Charges extraordinaires de transfert";386;3;"fr";"erfolg";7
+"Charges extraordinaires de transfert ; Confédération";3860;4;"fr";"erfolg";7
+"Charges extraordinaires de transfert ; cantons";3861;4;"fr";"erfolg";7
+"Charges extraordinaires de transfert ; communes";3862;4;"fr";"erfolg";7
+"Charges extraordinaires de transfert ; assurances sociales publiques";3863;4;"fr";"erfolg";7
+"Charges extraordinaires de transfert ; entreprises publiques";3864;4;"fr";"erfolg";7
+"Charges extraordinaires de transfert ; entreprises privées";3865;4;"fr";"erfolg";7
+"Charges extraordinaires de transfert ; organisations privées à but non lucratif";3866;4;"fr";"erfolg";7
+"Charges extraordinaires de transfert ; ménages privés";3867;4;"fr";"erfolg";7
+"Charges extraordinaires de transfert ; étranger";3868;4;"fr";"erfolg";7
+"Amortissements supplémentaires des prêts, participations et subventions d’investissements";387;3;"fr";"erfolg";7
+"Amortissements supplémentaires des prêts PA";3874;4;"fr";"erfolg";7
+"Amortissements supplémentaires des participations, capital social PA";3875;4;"fr";"erfolg";7
+"Amortissements supplémentaires des subventions d’investissements PA";3876;4;"fr";"erfolg";7
+"Attributions au capital propre";389;3;"fr";"erfolg";7
+"Sans";3890;4;"fr";"erfolg";7
+"Attributions aux réserves des domaines de l'enveloppe budgétaire";3892;4;"fr";"erfolg";7
+"Attributions aux préfinancements du capital propre";3893;4;"fr";"erfolg";7
+"Attribution à la réserve de politique budgétaire";3894;4;"fr";"erfolg";7
+"Attributions aux réserves de réévaluation";3896;4;"fr";"erfolg";7
+"Attributions aux autres capitaux propres";3898;4;"fr";"erfolg";7
+"Amortissement du découvert du bilan";3899;4;"fr";"erfolg";7
+"Imputations internes";39;2;"fr";"erfolg";7
+"Approvisionnement en matériel et en marchandises";390;3;"fr";"erfolg";8
+"Prestations de service";391;3;"fr";"erfolg";8
+"Bail à ferme, loyers, frais d'utilisation";392;3;"fr";"erfolg";8
+"Frais administratifs et d'exploitation";393;3;"fr";"erfolg";8
+"Intérêts et charges financières théoriques";394;3;"fr";"erfolg";8
+"Amortissements planifiés et non planifiés";395;3;"fr";"erfolg";8
+"Virements comptables";398;3;"fr";"erfolg";8
+"Autres imputations internes";399;3;"fr";"erfolg";8
+"Revenus";4;1;"fr";"erfolg";8
+"Revenus fiscaux";40;2;"fr";"erfolg";8
+"Impôts directs Personnes physiques";400;3;"fr";"erfolg";8
+"Impôts sur le revenu, personnes physiques";4000;4;"fr";"erfolg";8
+"Impôts sur la fortune, personnes physiques";4001;4;"fr";"erfolg";8
+"Impôts à la source Personnes physiques";4002;4;"fr";"erfolg";8
+"Impôts des personnes";4008;4;"fr";"erfolg";8
+"Autres impôts directs, personnes physiques";4009;4;"fr";"erfolg";8
+"Impôts directs, personnes morales";401;3;"fr";"erfolg";8
+"Impôts sur les bénéfices, personnes morales";4010;4;"fr";"erfolg";8
+"Impôts sur le capital, personnes morales";4011;4;"fr";"erfolg";8
+"Impôts à la source, personnes morales";4012;4;"fr";"erfolg";8
+"Autres impôts directs, personnes morales";4019;4;"fr";"erfolg";8
+"Autres impôts directs";402;3;"fr";"erfolg";8
+"Impôt anticipé (uniquement Confédération)";4020;4;"fr";"erfolg";8
+"Impôts fonciers";4021;4;"fr";"erfolg";8
+"Impôts sur les gains en capital";4022;4;"fr";"erfolg";8
+"Droits de mutation et timbre";4023;4;"fr";"erfolg";8
+"Impôts sur les successions et donations";4024;4;"fr";"erfolg";8
+"Impôt sur les maisons de jeu et machines à sous";4025;4;"fr";"erfolg";8
+"Impôt sur la propriété et sur les charges";403;3;"fr";"erfolg";8
+"Taxes routières";4030;4;"fr";"erfolg";8
+"Impôt sur les bateaux";4031;4;"fr";"erfolg";9
+"Impôts sur les divertissements";4032;4;"fr";"erfolg";9
+"Impôt sur les chiens";4033;4;"fr";"erfolg";9
+"Autre impôt sur la propriété et les charges";4039;4;"fr";"erfolg";9
+"Sans";404;3;"fr";"erfolg";9
+"Sans";405;3;"fr";"erfolg";9
+"Sans";406;3;"fr";"erfolg";9
+"Sans";407;3;"fr";"erfolg";9
+"Patentes et concessions";41;2;"fr";"erfolg";9
+"Patentes";410;3;"fr";"erfolg";9
+"Patentes";4100;4;"fr";"erfolg";9
+"Banque nationale Suisse";411;3;"fr";"erfolg";9
+"Part au bénéfice net de la BNS";4110;4;"fr";"erfolg";9
+"Concessions";412;3;"fr";"erfolg";9
+"Concessions";4120;4;"fr";"erfolg";9
+"Parts de revenus à des loteries, Sport-Toto, paris";413;3;"fr";"erfolg";9
+"Parts de revenus à des loteries, Sport-Toto, paris";4130;4;"fr";"erfolg";9
+"Taxes et redevances";42;2;"fr";"erfolg";9
+"Taxes de compensation";420;3;"fr";"erfolg";9
+"Taxes de compensation";4200;4;"fr";"erfolg";9
+"Emoluments pour actes administratifs";421;3;"fr";"erfolg";9
+"Emoluments pour actes administratifs";4210;4;"fr";"erfolg";9
+"Taxes pour hôpitaux et établissements médicaux sociaux, subventions aux frais de pension";422;3;"fr";"erfolg";9
+"Taxes et subventions aux frais de pension";4220;4;"fr";"erfolg";9
+"Paiement pour prestations particulières";4221;4;"fr";"erfolg";9
+"Sans";4229;4;"fr";"erfolg";9
+"Frais d’écolage et taxes de cours";423;3;"fr";"erfolg";9
+"Frais d’écolage";4230;4;"fr";"erfolg";9
+"Taxes de cours";4231;4;"fr";"erfolg";9
+"Sans";4239;4;"fr";"erfolg";9
+"Taxes d'utilisation et prestations de service";424;3;"fr";"erfolg";10
+"Taxes d'utilisation et prestations de service";4240;4;"fr";"erfolg";10
+"Recette sur ventes";425;3;"fr";"erfolg";10
+"Ventes";4250;4;"fr";"erfolg";10
+"Remboursements";426;3;"fr";"erfolg";10
+"Remboursements et participations de tiers";4260;4;"fr";"erfolg";10
+"Amendes";427;3;"fr";"erfolg";10
+"Amendes";4270;4;"fr";"erfolg";10
+"Sans";428;3;"fr";"erfolg";10
+"Autres taxes";429;3;"fr";"erfolg";10
+"Autres taxes";4290;4;"fr";"erfolg";10
+"Revenus divers";43;2;"fr";"erfolg";10
+"Revenus d'exploitation divers";430;3;"fr";"erfolg";10
+"Revenus de l'activité de médecine privée";4300;4;"fr";"erfolg";10
+"Actifs saisis";4301;4;"fr";"erfolg";10
+"Autres revenus d'exploitation";4309;4;"fr";"erfolg";10
+"Transferts au compte des investissements";431;3;"fr";"erfolg";10
+"Prestations propres sur immobilisations corporelles portées à l'actif";4310;4;"fr";"erfolg";10
+"Prestations propres sur immobilisations incorporelles portées à l'actif";4311;4;"fr";"erfolg";10
+"Frais de projection portés à l'actif";4312;4;"fr";"erfolg";10
+"Sans";4319;4;"fr";"erfolg";10
+"Variations de stocks";432;3;"fr";"erfolg";10
+"Variations de stocks, produits semi-finis et finis";4320;4;"fr";"erfolg";10
+"Variations de stocks, travaux commencés (prestations de service)";4321;4;"fr";"erfolg";10
+"Autres variations de stocks";4329;4;"fr";"erfolg";10
+"Autres revenus";439;3;"fr";"erfolg";10
+"Autres revenus";4390;4;"fr";"erfolg";10
+"Réévaluations PA";4391;4;"fr";"erfolg";10
+"Revenus financiers";44;2;"fr";"erfolg";10
+"Revenus des intérêts";440;3;"fr";"erfolg";10
+"Intérêts des liquidités";4400;4;"fr";"erfolg";11
+"Intérêts des créances et comptes courants";4401;4;"fr";"erfolg";11
+"Intérêts des placements financiers";4402;4;"fr";"erfolg";11
+"Autres intérêts du patrimoine financier";4409;4;"fr";"erfolg";11
+"Gains réalisés PF";441;3;"fr";"erfolg";11
+"Gains provenant des ventes des placements financiers PF";4410;4;"fr";"erfolg";11
+"Gains provenant des ventes des immobilisations corporelles et incorporelles PF";4411;4;"fr";"erfolg";11
+"Autres gains réalisés à partir du patrimoine financier";4419;4;"fr";"erfolg";11
+"Revenus de participations PF";442;3;"fr";"erfolg";11
+"Dividendes";4420;4;"fr";"erfolg";11
+"Autres revenus de participations";4429;4;"fr";"erfolg";11
+"Produit des immeubles du PF";443;3;"fr";"erfolg";11
+"Loyers et fermages, immeubles du PF";4430;4;"fr";"erfolg";11
+"Paiement pour appartements de service PF";4431;4;"fr";"erfolg";11
+"Paiement pour utilisations des du immeubles PF";4432;4;"fr";"erfolg";11
+"Autres produits des immeubles, PF";4439;4;"fr";"erfolg";11
+"Réévaluations, immobilisations PF";444;3;"fr";"erfolg";11
+"Réévaluation autres placements financiers PF";4440;4;"fr";"erfolg";11
+"Réévaluation prêts PF";4441;4;"fr";"erfolg";11
+"Réévaluations participations PF";4442;4;"fr";"erfolg";11
+"Réévaluations, immeubles PF";4443;4;"fr";"erfolg";11
+"Réévaluations, autres immobilisations corporelles et incorporelles PF";4449;4;"fr";"erfolg";11
+"Revenus financiers de prêts et de participations du PA";445;3;"fr";"erfolg";11
+"Revenus provenant d'emprunts PA";4450;4;"fr";"erfolg";11
+"Revenus provenant de participations PA hormis dans des entreprises publiques";4451;4;"fr";"erfolg";11
+"Sans";4459;4;"fr";"erfolg";11
+"Revenus financiers d'entreprises publiques";446;3;"fr";"erfolg";11
+"Exploitations publiques de la Confédération";4460;4;"fr";"erfolg";11
+"Entreprises publiques des cantons avec forme juridique de droit public, concordats";4461;4;"fr";"erfolg";11
+"Associations intercommunales, entreprises communales autonomes et non autonomes";4462;4;"fr";"erfolg";11
+"Entreprises publiques comme société anonyme ou autre forme d'organisation de droit privé";4463;4;"fr";"erfolg";12
+"Banque Nationale Suisse";4464;4;"fr";"erfolg";12
+"Entreprises publiques à l'étranger";4468;4;"fr";"erfolg";12
+"Autres entreprises publiques";4469;4;"fr";"erfolg";12
+"Produit des immeubles PA";447;3;"fr";"erfolg";12
+"Loyers et fermages des biens-fonds PA";4470;4;"fr";"erfolg";12
+"Paiement pour appartements de service PA";4471;4;"fr";"erfolg";12
+"Paiement pour utilisations des immeubles PA";4472;4;"fr";"erfolg";12
+"Autres revenus, biens-fonds PA";4479;4;"fr";"erfolg";12
+"Revenus des immeubles loués";448;3;"fr";"erfolg";12
+"Loyers des immeubles loués";4480;4;"fr";"erfolg";12
+"Autres revenus des biens-fonds loués";4489;4;"fr";"erfolg";12
+"Autres Revenus financiers";449;3;"fr";"erfolg";12
+"Autres revenus financiers";4499;4;"fr";"erfolg";12
+"Prélèvements sur les financements spéciaux et fonds";45;2;"fr";"erfolg";12
+"Prélèvements sur les financements spéciaux et fonds sous capitaux de tiers";450;3;"fr";"erfolg";12
+"Prélèvements sur les financements spéciaux sous capitaux de tiers";4500;4;"fr";"erfolg";12
+"Prélèvements sur les fonds sous capitaux de tiers";4501;4;"fr";"erfolg";12
+"Prélèvements sur les legs et fondations sous capitaux de tiers";4502;4;"fr";"erfolg";12
+"Prélèvements sur d’autres capitaux de tiers affectés";4503;4;"fr";"erfolg";12
+"Sans";4509;4;"fr";"erfolg";12
+"Prélèvements sur les financements spéciaux et foinds sous capital propre";451;3;"fr";"erfolg";12
+"Prélèvements sur les financements spéciaux sous capital propre";4510;4;"fr";"erfolg";12
+"Prélèvements sur les fonds sous capital propre";4511;4;"fr";"erfolg";12
+"Prélèvements sur les legs et fondations sans personnalité juridique sous capital propre";4512;4;"fr";"erfolg";12
+"Sans";4519;4;"fr";"erfolg";12
+"Sans";4529;4;"fr";"erfolg";12
+"Revenus de transferts";46;2;"fr";"erfolg";12
+"Parts à des revenus";460;3;"fr";"erfolg";12
+"Part aux revenus de la Confédération";4600;4;"fr";"erfolg";12
+"Part aux revenus des cantons et des concordats";4601;4;"fr";"erfolg";13
+"Part aux revenus des communes et des associations intercommunales";4602;4;"fr";"erfolg";13
+"Part aux revenus des institutions publiques d'assurance sociale";4603;4;"fr";"erfolg";13
+"Parts aux revenus des entreprises publiques";4604;4;"fr";"erfolg";13
+"Dédommagements de collectivités publiques";461;3;"fr";"erfolg";13
+"Dédommagements de la Confédération";4610;4;"fr";"erfolg";13
+"Dédommagements des cantons et des concordats";4611;4;"fr";"erfolg";13
+"Dédommagements des communes et des associations intercommunales";4612;4;"fr";"erfolg";13
+"Indemnités des assurances sociales publiques";4613;4;"fr";"erfolg";13
+"Indemnités des entreprises publiques";4614;4;"fr";"erfolg";13
+"Sans";4615;4;"fr";"erfolg";13
+"Sans";4616;4;"fr";"erfolg";13
+"Sans";4617;4;"fr";"erfolg";13
+"Sans";4618;4;"fr";"erfolg";13
+"Péréquation financière et compensation des charges";462;3;"fr";"erfolg";13
+"de la Confédération";4620;4;"fr";"erfolg";13
+"des cantons et des concordats";4621;4;"fr";"erfolg";13
+"des communes et associations intercommunales";4622;4;"fr";"erfolg";13
+"des entreprises publiques";4624;4;"fr";"erfolg";13
+"Sans";4629;4;"fr";"erfolg";13
+"Subventions de collectivités publiques et de tiers";463;3;"fr";"erfolg";13
+"Subventions de la Confédération";4630;4;"fr";"erfolg";13
+"Subventions des cantons et des concordats";4631;4;"fr";"erfolg";13
+"Subventions des communes et des associations intercommunales";4632;4;"fr";"erfolg";13
+"Subventions des assurances sociales publiques";4633;4;"fr";"erfolg";13
+"Subventions des entreprises publiques";4634;4;"fr";"erfolg";13
+"Subventions des entreprises privées";4635;4;"fr";"erfolg";13
+"Subventions des organisations privées à but non lucratif";4636;4;"fr";"erfolg";13
+"Subventions des ménages privés";4637;4;"fr";"erfolg";13
+"Subventions provenant de l'étranger";4638;4;"fr";"erfolg";13
+"Dissolution des subventions d'investissements portées au passif";466;3;"fr";"erfolg";14
+"Dissolution planifiée des subventions d'investissements portées au passif";4660;4;"fr";"erfolg";14
+"Dissolutions non planifiées des subventions d'investissements portées au passif";4661;4;"fr";"erfolg";14
+"Autres revenus de transferts";469;3;"fr";"erfolg";14
+"Autres revenus de transferts";4690;4;"fr";"erfolg";14
+"Redistributions";4699;4;"fr";"erfolg";14
+"Subventions à redistribuer";47;2;"fr";"erfolg";14
+"Subventions à redistribuer";470;3;"fr";"erfolg";14
+"Subventions  à redistribuer reçues de la Confédération";4700;4;"fr";"erfolg";14
+"Subventions à redistribuer reçues des cantons et des concordats";4701;4;"fr";"erfolg";14
+"Subventions à redistribuer reçues des communes et des associations intercommunales";4702;4;"fr";"erfolg";14
+"Subventions à redistribuer reçues des assurances sociales publiques";4703;4;"fr";"erfolg";14
+"Subventions à redistribuer reçues des entreprises publiques";4704;4;"fr";"erfolg";14
+"Subventions à redistribuer reçues des entreprises privées";4705;4;"fr";"erfolg";14
+"Subventions à redistribuer reçues des organisations privées à but non lucratif";4706;4;"fr";"erfolg";14
+"Subventions à redistribuer reçues des ménages";4707;4;"fr";"erfolg";14
+"Subventions à redistribuer provenant de l'étranger";4708;4;"fr";"erfolg";14
+"Revenus extraordinaires";48;2;"fr";"erfolg";14
+"Sans";4809;4;"fr";"erfolg";14
+"Revenus extraordinaires de patentes, concessions";481;3;"fr";"erfolg";14
+"Revenus extraordinaires de patentes";4810;4;"fr";"erfolg";14
+"Revenus extraordinaires de concessions";4811;4;"fr";"erfolg";14
+"Contributions extraordinaires";482;3;"fr";"erfolg";14
+"Revenus extraordinaires divers";483;3;"fr";"erfolg";14
+"Revenus financiers extraordinaires";484;3;"fr";"erfolg";14
+"Revenus financiers monétaires extraordinaires";4840;4;"fr";"erfolg";14
+"Revenus financiers comptables extraordinaires, Réévaluations extraordinaires";4841;4;"fr";"erfolg";14
+"Revenus extraordinaires de transferts";486;3;"fr";"erfolg";14
+"Revenus extraordinaires de transferts ; Confédération";4860;4;"fr";"erfolg";14
+"Revenus extraordinaires de transferts ; cantons";4861;4;"fr";"erfolg";14
+"Revenus extraordinaires de transfert ; communes";4862;4;"fr";"erfolg";15
+"Revenus extraordinaires de transfert ; assurances sociales publiques";4863;4;"fr";"erfolg";15
+"Revenus extraordinaires de transferts ; entreprises publiques";4864;4;"fr";"erfolg";15
+"Revenus extraordinaires de transferts ; entreprises privées";4865;4;"fr";"erfolg";15
+"Revenus extraordinaires de transferts ; organisations privées à but non lucratif";4866;4;"fr";"erfolg";15
+"Revenus extraordinaires de transferts ; ménages";4867;4;"fr";"erfolg";15
+"Revenus extraordinaires de transferts ; étranger";4868;4;"fr";"erfolg";15
+"Dissolution supplémentaire des subventions d’investissements portées au passif";487;3;"fr";"erfolg";15
+"Dissolution supplémentaire des subventions d’investissement portées au passif";4870;4;"fr";"erfolg";15
+"Prélèvements sur le capital propre";489;3;"fr";"erfolg";15
+"Sans";4890;4;"fr";"erfolg";15
+"Prélèvements sur réserves des domaines de l'enveloppe budgétaire";4892;4;"fr";"erfolg";15
+"Prélèvements sur les préfinancements du capital propre";4893;4;"fr";"erfolg";15
+"Prélèvement sur la réserve de politique budgétaire";4894;4;"fr";"erfolg";15
+"Prélèvements sur réserve liée au retraitement PA";4895;4;"fr";"erfolg";15
+"Prélèvements sur les réserves liées au retraitement PF";4896;4;"fr";"erfolg";15
+"Prélèvements sur les autres capitaux propres";4898;4;"fr";"erfolg";15
+"Prélèvements sur le résultat cumulé de l'année précédente";4899;4;"fr";"erfolg";15
+"Imputations internes";49;2;"fr";"erfolg";15
+"Approvisionnement en matériel et en marchandises";490;3;"fr";"erfolg";15
+"Prestations de service";491;3;"fr";"erfolg";15
+"Bail à ferme, loyers, frais d'utilisation";492;3;"fr";"erfolg";15
+"Frais administratifs et d'exploitation";493;3;"fr";"erfolg";15
+"Intérêts et charges financières théoriques";494;3;"fr";"erfolg";15
+"Amortissements planifiés et non planifiés";495;3;"fr";"erfolg";15
+"Virement comptables";498;3;"fr";"erfolg";15
+"Autres imputations internes";499;3;"fr";"erfolg";15
+"Comptes de clôture";9;1;"fr";"erfolg";15
+"Clôture ménage général";900;3;"fr";"erfolg";15
+"Excédent de revenus";9000;4;"fr";"erfolg";15
+"Excédent de charges";9001;4;"fr";"erfolg";16
+"Clôture des financements spéciaux et fonds sous capital propre, excédent de revenus";9010;4;"fr";"erfolg";16
+"Clôture des financements spéciaux et fonds sous capital propre, excédent de charges";9011;4;"fr";"erfolg";16
+"Clôture des legs et fondations sans personnalité juridique sous capital propre, excédent de revenus";9020;4;"fr";"erfolg";16
+"Clôture des legs et fondations sans personnalité juridique sous capital propre, excédent de charges";9021;4;"fr";"erfolg";16
