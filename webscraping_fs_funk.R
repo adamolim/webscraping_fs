@@ -125,8 +125,10 @@ for(j in list_lang)
 
 fs_table_02 <- fs_table %>%
     as_tibble() %>% 
-    mutate(Info =  str_replace_all(Info, "\\s+", "; ")) %>% 
+    mutate(Info = case_when(Label == "Mots-clés" ~ str_replace_all(Info, "\\s+", "; "),
+                            TRUE ~ Info)) %>% 
     mutate(Info =  str_replace(Info, "; ", "")) %>% 
+    mutate(Info =  str_replace(Info, "\n      ", "")) %>% 
     spread(key = Langue, value = Info) %>% 
     arrange(Konto)
 
