@@ -1,310 +1,112 @@
 "Label";"Konto";"de";"fr"
-"Contenu";"411";"Bau, Betrieb, Unterhalt oder Unterstützung von Anstalten, die der stationären Behandlung akuter Krankheiten oder der stationären Durchführung von Massnahmen der medizinischen Rehabilitation dienen. Diese Anstalten gelten sowohl nach Artikel 39 Absatz 1 KVG als auch in der Krankenhausstatistik des BFS als Spitäler.
-              Gemeinwirtschaftliche Leistungen (GWL)
-          ";"Construction, gestion, entretien ou soutien d’établissements dédiés au traitement hospitalier de maladies aiguës ou à l’exécution, en milieu hospitalier, de mesures médicales de réadaptation. Ces établissements sont considérés comme des hôpitaux tant du point de vue de l’art. 39, al. 1, LAA que de celui de la statistique des hôpitaux de l’OFS.
-              Prestations d'intérêt général
-          "
+"Contenu";"411";"Bau, Betrieb, Unterhalt oder Unterstützung von Anstalten, die der stationären Behandlung akuter Krankheiten oder der stationären Durchführung von Massnahmen der medizinischen Rehabilitation dienen. Diese Anstalten gelten sowohl nach Artikel 39 Absatz 1 KVG als auch in der Krankenhausstatistik des BFS als Spitäler. Gemeinwirtschaftliche Leistungen (GWL) ";"Construction, gestion, entretien ou soutien d’établissements dédiés au traitement hospitalier de maladies aiguës ou à l’exécution, en milieu hospitalier, de mesures médicales de réadaptation. Ces établissements sont considérés comme des hôpitaux tant du point de vue de l’art. 39, al. 1, LAA que de celui de la statistique des hôpitaux de l’OFS. Prestations d'intérêt général "
 "Libellé";"411";"Spitäler";"Hôpitaux"
 "Mots-clés";"411";"Paraplegikerzentrum; Spezialkliniken; Krankenhäuser; Spitäler; ";"Centres; de; paraplégiques; Cliniques; spécialisées; Hôpitaux; de; soins; généraux; Hôpitaux; "
-"Contenu";"412";"Bau, Betrieb, Unterhalt oder Unterstützung von Institutionen mit 24-Stunden-Betrieb, in denen Personen zur stationären Behandlung oder Betreuung aufgenommen werden. Die Einweisung kann aus medizinischen und/oder sozialen Gründen erfolgen und ist in der Regel auf einen längerfristigen Zeitraum angelegt (Definition gemäss der Statistik der sozialmedizinischen Institutionen des BFS).
-          ";"Construction, gestion, entretien ou soutien d’établissements fonctionnant 24h sur 24 et accueillant des personnes pour un traitement ou une prise en charge résidentielle. Le séjour en home médicalisé peut être motivé par des raisons médicales ou sociales et il dure en principe un certain temps (définition d’après la Statistique des institutions médico-sociales de l’OFS).
-          "
+"Contenu";"412";"Bau, Betrieb, Unterhalt oder Unterstützung von Institutionen mit 24-Stunden-Betrieb, in denen Personen zur stationären Behandlung oder Betreuung aufgenommen werden. Die Einweisung kann aus medizinischen und/oder sozialen Gründen erfolgen und ist in der Regel auf einen längerfristigen Zeitraum angelegt (Definition gemäss der Statistik der sozialmedizinischen Institutionen des BFS). ";"Construction, gestion, entretien ou soutien d’établissements fonctionnant 24h sur 24 et accueillant des personnes pour un traitement ou une prise en charge résidentielle. Le séjour en home médicalisé peut être motivé par des raisons médicales ou sociales et il dure en principe un certain temps (définition d’après la Statistique des institutions médico-sociales de l’OFS). "
 "Libellé";"412";"Kranken-, Alters- und Pflegeheime";"Homes médicalisés et maisons pour personnes âgées"
 "Mots-clés";"412";"Pflegefinanzierung; Heilbäder; Rehabilitationskliniken; Rheumakliniken; Heim; für; Chronischkranke; Krankenheime; Erholungsheime; Sanatorien; ";"Financement; des; soins; Bains; thermaux; Cliniques; de; réadaptation; Cliniques; spécialisées; en; rhumatologie; Home; pour; malades; chroniques; Homes; médicalisés; Maisons; de; convalescence; Sanatoriums; "
-"Contenu";"413";"Bau, Betrieb, Unterhalt oder Unterstützung von Spitäler oder Kliniken, welche sich auf den medizinischen Fachbereich der Psychiatrie spezialisiert haben.
-          ";"Construction, gestion, entretien ou soutien d’hôpitaux ou de cliniques spécialisés dans la discipline médicale de la psychiatrie.
-          "
+"Contenu";"413";"Bau, Betrieb, Unterhalt oder Unterstützung von Spitäler oder Kliniken, welche sich auf den medizinischen Fachbereich der Psychiatrie spezialisiert haben. ";"Construction, gestion, entretien ou soutien d’hôpitaux ou de cliniques spécialisés dans la discipline médicale de la psychiatrie. "
 "Libellé";"413";"Psychiatrische Kliniken";"Cliniques psychiatriques"
 "Mots-clés";"413";"Psychiatrische; Kliniken; Kinderpsychiatrie; ";"Cliniques; psychiatriques; Pédopsychiatrie; "
-"Contenu";"421";"Spitalexterne Krankenpflege, Heimpflege, Samaritervereine,  Mahlzeitendienst (nicht subventioniert) etc.
-          ";"Soins extrahospitaliers, soins à domicile, sociétés de samaritains, service de repas à domicile (non subventionné) etc.
-          "
+"Contenu";"421";"Spitalexterne Krankenpflege, Heimpflege, Samaritervereine, Mahlzeitendienst (nicht subventioniert) etc. ";"Soins extrahospitaliers, soins à domicile, sociétés de samaritains, service de repas à domicile (non subventionné) etc. "
 "Libellé";"421";"Ambulante Krankenpflege";"Soins ambulatoires"
 "Mots-clés";"421";"Mahlzeitendienst; (nicht; subventioniert); Krankenpflege; Mütterberatung; Heilgymnasitktherapie; Hebammen; Samaritervereine; Heimpflege; Spitex; ";"Service; de; repas; à; domicile; (non; subventionné); Assistance; et; soins; aux; malades; Conseil; en; hygiène; maternelle; et; infantile; Gymnastique; thérapeutique; Sage-femme; Sociétés; de; samaritains; Soins; à; domicile; Spitex; "
-"Contenu";"422";"Ambulanzen, Sanitätspolizei, Rega, medizinische Notfälle usw.
-          ";"Ambulances, police sanitaire, Rega, urgences médicales, etc.
-          "
+"Contenu";"422";"Ambulanzen, Sanitätspolizei, Rega, medizinische Notfälle usw. ";"Ambulances, police sanitaire, Rega, urgences médicales, etc. "
 "Libellé";"422";"Rettungsdienste";"Services de sauvetage"
 "Mots-clés";"422";"Ambulanzen; Sanitätspolizei; Rega; Rettungsdienste; ";"Ambulances; Police; sanitaire; Rega; (garde; aérienne; de; sauvetage); Services; de; secours; "
-"Contenu";"431";"Prophylaktische und therapeutische Massnahmen.
-              Umfasst nicht:
-              Soziale Unterstützung von Alkohol- und Drogenabhängigen (579).
-          ";"Mesures prophylactiques et thérapeutiques.
-              N'est pas comprise:
-              l’assistance aux personnes dépendantes (579).
-          "
+"Contenu";"431";"Prophylaktische und therapeutische Massnahmen. Umfasst nicht: Soziale Unterstützung von Alkohol- und Drogenabhängigen (579). ";"Mesures prophylactiques et thérapeutiques. N'est pas comprise: l’assistance aux personnes dépendantes (579). "
 "Libellé";"431";"Alkohol- und Drogenmissbrauch";"Abus d'alcool et de drogues"
 "Mots-clés";"431";"Abstinentenvereine; und; -verbände; Entzugsanstalten; Entziehungsanstalten; Drogenstation; Drop-in; Therapeutische; Wohngemeinschaften; Alkoholprävention; Drogenprävention; Suchtprävention; ";"Associations; d'abstinence; Centres; de; désintoxication; Cure; de; désintoxication; Distribution; contôlée; de; drogues; Drop-in; Logement; protégé; à; but; thérapeutique; Lutte; contre; l'alcoolisme; Lutte; contre; la; drogue; et; la; toxicomanie; Prévention; des; dépendances; "
-"Contenu";"432";"Verwaltung, Kontrolle, Betrieb oder Unterstützung eines öffentlichen Gesundheitsdienstes wie Betrieb von Blutbanken (Sammeln, Verarbeiten, Lagerung, Versand), Krankheitsfeststellung (Krebs, Tuberkulose, Geschlechtskrankheiten), Prävention (Immunisierung, Impfungen), Überwachung (Kinderernährung, Kindergesundheit) und Sammeln von epidemiologischen Daten, usw.;
-              Erstellung und Verbreitung von Informationen über Angelegenheiten des öffentlichen Gesundheitsdienstes;
-              Öffentlicher Gesundheitsdienst, der von spezialisierten Teams am Arbeitsplatz oder anderen nicht medizinischen Niederlassungen bereitgestellt wird;
-              Öffentlicher Gesundheitsdienst, der nicht mit einem Krankenhaus, Klinik oder Arzt verbunden ist.
-          ";"Administration, contrôle, gestion ou soutien des services de santé publique: gestion de banques du sang (collecte, traitement, stockage, transport), dépistage (cancer, tuberculose, MST), prévention (immunisation, vaccinations), surveillance (nutrition et santé infantiles), récolte de données épidémiologiques, etc.;
-              rédaction et diffusion d’informations relatives aux services de santé publique;
-              prestations assurées par des équipes spécialisées sur les lieux de travail ou sur d’autres sites non médicaux;
-              services de santé publique non liés à un hôpital, une clinique ou un médecin.
-          "
+"Contenu";"432";"Verwaltung, Kontrolle, Betrieb oder Unterstützung eines öffentlichen Gesundheitsdienstes wie Betrieb von Blutbanken (Sammeln, Verarbeiten, Lagerung, Versand), Krankheitsfeststellung (Krebs, Tuberkulose, Geschlechtskrankheiten), Prävention (Immunisierung, Impfungen), Überwachung (Kinderernährung, Kindergesundheit) und Sammeln von epidemiologischen Daten, usw.; Erstellung und Verbreitung von Informationen über Angelegenheiten des öffentlichen Gesundheitsdienstes; Öffentlicher Gesundheitsdienst, der von spezialisierten Teams am Arbeitsplatz oder anderen nicht medizinischen Niederlassungen bereitgestellt wird; Öffentlicher Gesundheitsdienst, der nicht mit einem Krankenhaus, Klinik oder Arzt verbunden ist. ";"Administration, contrôle, gestion ou soutien des services de santé publique: gestion de banques du sang (collecte, traitement, stockage, transport), dépistage (cancer, tuberculose, MST), prévention (immunisation, vaccinations), surveillance (nutrition et santé infantiles), récolte de données épidémiologiques, etc.; rédaction et diffusion d’informations relatives aux services de santé publique; prestations assurées par des équipes spécialisées sur les lieux de travail ou sur d’autres sites non médicaux; services de santé publique non liés à un hôpital, une clinique ou un médecin. "
 "Libellé";"432";"Krankheitsbekämpfung, übrige";"Lutte contre les maladies, autres"
 "Mots-clés";"432";"Arbeitshygiene; Bakteriologische; Untersuchungen; Desinfektion; Impfungen; Epidemiologie; Krankheitsbekämpfung; Gesundheitsligen; (z.B.; Krebsliga/Rheumaliga); Medikamente; ";"Analyses; bactériologiques; Campagnes; de; vaccinations; Désinfections; Epidémiologie; Lutte; contre; les; maladies; Médecine/hygiène; de; travail; Médicaments; Subventions; aux; institutions; (par; ex.; ligue; contre; le; cancer; ou; le; rhumatisme); "
-"Contenu";"433";"Öffentlicher Gesundheitsdienst, der von spezialisierten Teams an Schulen bereitgestellt wird (z.B. Schulzahnpflege).
-          ";"Prestations de santé publique assurées par des équipes spécialisées, dans les écoles (par ex.dentiste scolaire).
-          "
+"Contenu";"433";"Öffentlicher Gesundheitsdienst, der von spezialisierten Teams an Schulen bereitgestellt wird (z.B. Schulzahnpflege). ";"Prestations de santé publique assurées par des équipes spécialisées, dans les écoles (par ex.dentiste scolaire). "
 "Libellé";"433";"Schulgesundheitsdienst";"Service médical des écoles"
 "Mots-clés";"433";"Schulzahnklinik; Schulzahnarzt; Schularzt; Ärztliche; Untersuchungen; von; Schulkindern; ";"Clinique; dentaire; scolaire; Dentiste; scolaire; Médecin; scolaire; Visites; médicales; des; écoliers; "
-"Contenu";"434";"Durchführung von Inspektionen in Betrieben;
-              Durchführung von Laboruntersuchungen;
-              Kontrolle der Einhaltung von gesetzlichen Vorschriften.
-          ";"Inspections dans les entreprises;
-              inspections dans les laboratoires;
-              contrôle du respect des prescriptions légales.
-          "
+"Contenu";"434";"Durchführung von Inspektionen in Betrieben; Durchführung von Laboruntersuchungen; Kontrolle der Einhaltung von gesetzlichen Vorschriften. ";"Inspections dans les entreprises; inspections dans les laboratoires; contrôle du respect des prescriptions légales. "
 "Libellé";"434";"Lebensmittelkontrolle";"Contrôle denrées alimentaires"
 "Mots-clés";"434";"Trinkwasserkontrolle; Pilzkontrolle; Lebensmittelkontrollen; Fleischschau; Laboratorien; des; Gesundheitsdienstes; ";"Contrôle; de; l'eau; potable; Contrôle; des; champignons; Inspection; des; denrées; alimentaires; Inspection; des; viandes; Laboratoire; du; service; de; la; santé; publique; "
-"Contenu";"480";"Verwaltung, Betrieb oder Unterstützung angewandter Forschung und experimenteller Entwicklung im Bereich des Gesundheitswesens;
-              Labors, die mit der Feststellung der Ursachen von Krankheiten beschäftigt sind.
-              Umfasst nicht:
-              Grundlagenforschung (281).
-          ";"Administration, gestion opérationnelle ou soutien de la recherche appliquée et du développement expérimental dans le domaine de la santé;
-              laboratoires menant des recherches sur les causes de différentes maladies.
-              N’est pas comprise:
-              la recherche fondamentale (281).
-          "
+"Contenu";"480";"Verwaltung, Betrieb oder Unterstützung angewandter Forschung und experimenteller Entwicklung im Bereich des Gesundheitswesens; Labors, die mit der Feststellung der Ursachen von Krankheiten beschäftigt sind. Umfasst nicht: Grundlagenforschung (281). ";"Administration, gestion opérationnelle ou soutien de la recherche appliquée et du développement expérimental dans le domaine de la santé; laboratoires menant des recherches sur les causes de différentes maladies. N’est pas comprise: la recherche fondamentale (281). "
 "Libellé";"480";"F&E in Gesundheit";"R&D santé"
 "Mots-clés";"480";"Entwicklung; in; Gesundheit; Forschung; in; Gesundheit; ";"Développement; dans; le; domaine; de; la; santé; Recherche; dans; le; domaine; de; la; santé; "
-"Contenu";"490";"Verwaltung, Betrieb oder Unterstützung von Aktivitäten wie Ausarbeitung, Durchführung, Koordination und Überwachung einer umfassenden Gesundheitspolitik, Plänen, Programmen und Budgets;
-              Vorbereitung und Durchsetzung von Gesetzgebung und Normen bezüglich Vorschriften im Bereich des Gesundheitswesens, wie z.B. die Konzessionierung von medizinischen Einrichtungen, Zulassungsbestimmungen für das ärztliche und das nicht-ärztliche medizinische PersonalZulassungsbestimmungen für Medikamente;
-              Angelegenheiten des Gesundheitswesens, die nicht anderweitig zugeordnet werden können.
-          ";"Administration, gestion opérationnelle ou soutien d’activités comme l’élaboration, la mise en œuvre, la coordination et la surveillance d’une politique étendue de la santé, des plans, des programmes et des budgets;
-              préparation et mise en œuvre de la législation et de normes dans le domaine de la santé, comme l'octroi de concessions à des établissements médicaux, l’élaboration de conditions d’habilitation pour le personnel médical et non médical et de conditions d’autorisation pour les médicaments;
-              activités liées à la santé et ne pouvant être associées à une fonction particulière.
-          "
+"Contenu";"490";"Verwaltung, Betrieb oder Unterstützung von Aktivitäten wie Ausarbeitung, Durchführung, Koordination und Überwachung einer umfassenden Gesundheitspolitik, Plänen, Programmen und Budgets; Vorbereitung und Durchsetzung von Gesetzgebung und Normen bezüglich Vorschriften im Bereich des Gesundheitswesens, wie z.B. die Konzessionierung von medizinischen Einrichtungen, Zulassungsbestimmungen für das ärztliche und das nicht-ärztliche medizinische PersonalZulassungsbestimmungen für Medikamente; Angelegenheiten des Gesundheitswesens, die nicht anderweitig zugeordnet werden können. ";"Administration, gestion opérationnelle ou soutien d’activités comme l’élaboration, la mise en œuvre, la coordination et la surveillance d’une politique étendue de la santé, des plans, des programmes et des budgets; préparation et mise en œuvre de la législation et de normes dans le domaine de la santé, comme l'octroi de concessions à des établissements médicaux, l’élaboration de conditions d’habilitation pour le personnel médical et non médical et de conditions d’autorisation pour les médicaments; activités liées à la santé et ne pouvant être associées à une fonction particulière. "
 "Libellé";"490";"Gesundheitswesen, n. a. g.";"Santé publique, non mentionné ailleurs"
 "Mots-clés";"490";"Gesundheitskommissionen; Kontrollstelle; für; Heilmittel; Giftkurs; Gesundheitsberatung; Kantonsärzte; Gesundheitsämter; Toxikologie; ";"Commissions; de; santé; publique; Contrôle; des; médicaments; Cours; de; toxiques; Information,; conseils; sanitaires; Médecin; cantonal; Offices; de; la; santé; publique; Toxicologie; "
-"Contenu";"511";"Verwaltung, Betrieb oder Unterstützung gemäss Bundesgesetz vom 18. März 1994  über die Krankenversicherung (KVG) (SR 832.10).
-              Umfasst nicht:
-              Prämienverbilligungen (512);
-              Übernahme von nicht bezahlten Prämien (579).
-          ";"Administration, gestion opérationnelle ou soutien conformément à la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal) (RS 832.10).
-              Ne sont pas compris:
-              les réductions de primes (512);
-              le paiement des primes non payées (579).
-          "
+"Contenu";"511";"Verwaltung, Betrieb oder Unterstützung gemäss Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG) (SR 832.10). Umfasst nicht: Prämienverbilligungen (512); Übernahme von nicht bezahlten Prämien (579). ";"Administration, gestion opérationnelle ou soutien conformément à la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal) (RS 832.10). Ne sont pas compris: les réductions de primes (512); le paiement des primes non payées (579). "
 "Libellé";"511";"Krankenversicherung";"Assurance-maladie"
 "Mots-clés";"511";"Krankenkassen; ";"Caisses-maladie; "
-"Contenu";"512";"Beiträge zur Verbilligung von Prämien der obligatorischen Kranken- und Unfallversicherung.
-              Umfasst nicht:
-              Übernahme von nicht bezahlten Prämien (579).
-          ";"Contributions destinées à prendre en charge une partie des primes d’assurance maladie et accidents obligatoires.
-              N’est pas compris:
-              le paiement des primes non versées (579).
-          "
+"Contenu";"512";"Beiträge zur Verbilligung von Prämien der obligatorischen Kranken- und Unfallversicherung. Umfasst nicht: Übernahme von nicht bezahlten Prämien (579). ";"Contributions destinées à prendre en charge une partie des primes d’assurance maladie et accidents obligatoires. N’est pas compris: le paiement des primes non versées (579). "
 "Libellé";"512";"Prämienverbilligungen";"Réductions de primes"
 "Mots-clés";"512";"Prämienverbilligungen; Unfallversicherungen; Unfallversicherungsprämienverbilligung; Prämienverbilligungen; Unfallversicherungen; Unfallversicherungsprämienverbilligung; Prämienverbilligungen; Krankenkassen; Krankenkassenprämienverbilligung; Prämienverbilligungen; Krankenkassen; Krankenkassenprämienverbilligung; ";"Réduction; des; primes; d'assurance-accidents; Réduction; des; primes; d'assurance-accidents; Réduction; des; primes; d'assurance-maladie; Réduction; des; primes; d'assurance-maladie; "
-"Contenu";"513";"Verwaltung, Betrieb oder Unterstützung gemäss Bundesgesetz vom 20. März 1981  über die Unfallversicherung (UVG) (SR 832.20).
-              Umfasst nicht:
-              Arbeitgebendenbeiträge (sind nach Aufgabenbereichen zugeordnet).
-          ";"Administration, gestion opérationnelle ou soutien conformément à la loi fédérale du 20 mars 1981 sur l’assurance-accidents (LAA) (RS 832.20).
-              Ne sont pas comprises:
-              les cotisations de l’employeur (attribuées par domaine d’activité).
-          "
+"Contenu";"513";"Verwaltung, Betrieb oder Unterstützung gemäss Bundesgesetz vom 20. März 1981 über die Unfallversicherung (UVG) (SR 832.20). Umfasst nicht: Arbeitgebendenbeiträge (sind nach Aufgabenbereichen zugeordnet). ";"Administration, gestion opérationnelle ou soutien conformément à la loi fédérale du 20 mars 1981 sur l’assurance-accidents (LAA) (RS 832.20). Ne sont pas comprises: les cotisations de l’employeur (attribuées par domaine d’activité). "
 "Libellé";"513";"Unfallversicherung";"Assurance-accidents"
 "Mots-clés";"513";"Unfallversicherung; ";"Assurance-accidents; (contributions,; sans; cotisations; de; l'employeur); "
-"Contenu";"514";"Verwaltung, Betrieb oder Unterstützung gemäss Bundesgesetz vom 19. Juni 1992  über die Militärversicherung (MVG) (SR 833.1).
-          ";"Administration, gestion opérationnelle ou soutien conformément à la loi fédérale du 19 juin 1992 sur l’assurance militaire (LAM) (RS 833.1).
-          "
+"Contenu";"514";"Verwaltung, Betrieb oder Unterstützung gemäss Bundesgesetz vom 19. Juni 1992 über die Militärversicherung (MVG) (SR 833.1). ";"Administration, gestion opérationnelle ou soutien conformément à la loi fédérale du 19 juin 1992 sur l’assurance militaire (LAM) (RS 833.1). "
 "Libellé";"514";"Militärversicherung";"Assurance militaire"
 "Mots-clés";"514";"Militärversicherung; ";"Assurance; militaire; "
-"Contenu";"521";"Verwaltung, Betrieb oder Unterstützung gemäss Bundesgesetz vom 19. Juni 1959  über die Invalidenversicherung (IVG) (SR 831.20).
-              Beiträge der öffentlichen Hand.
-              Umfasst nicht:
-              Arbeitgebendenbeiträge (sind nach Aufgabenbereichen zugeordnet).
-          ";"Administration, gestion opérationnelle ou soutien conformément à la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI) (RS 831.20);
-              contribution des pouvoirs publics.
-              Ne sont pas comprises:
-              les cotisations de l’employeur (attribuées par domaine d’activité).
-          "
+"Contenu";"521";"Verwaltung, Betrieb oder Unterstützung gemäss Bundesgesetz vom 19. Juni 1959 über die Invalidenversicherung (IVG) (SR 831.20). Beiträge der öffentlichen Hand. Umfasst nicht: Arbeitgebendenbeiträge (sind nach Aufgabenbereichen zugeordnet). ";"Administration, gestion opérationnelle ou soutien conformément à la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI) (RS 831.20); contribution des pouvoirs publics. Ne sont pas comprises: les cotisations de l’employeur (attribuées par domaine d’activité). "
 "Libellé";"521";"Invalidenversicherung";"Assurance-invalidité"
 "Mots-clés";"521";"IV; ";"Assurance-invalidité; (contributions,; sans; cotisations; de; l'employeur); "
-"Contenu";"522";"Ergänzungsleistungen des Bundes und der Kantone gemäss Bundesgesetz vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-, Hinterbliebenen- und Invalidenversicherung (ELG SR 831.30).
-              Umfasst nicht:
-              Kantonale Beihilfen zur IV (571);
-              Gemeindezuschüsse zu kantonalen Beihilfen (571).
-          ";"Prestations complémentaires de la Confédération et des cantons conformément à la loi fédérale du 6 octobre 2006 sur les prestations complémentaires à l'AVS et à l'AI (LPC RS 831.30).
-              Ne sont pas compris:
-              les aides cantonales complétant l’AI (571);
-              les compléments communaux aux aides financières cantonales (571).
-          "
+"Contenu";"522";"Ergänzungsleistungen des Bundes und der Kantone gemäss Bundesgesetz vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-, Hinterbliebenen- und Invalidenversicherung (ELG SR 831.30). Umfasst nicht: Kantonale Beihilfen zur IV (571); Gemeindezuschüsse zu kantonalen Beihilfen (571). ";"Prestations complémentaires de la Confédération et des cantons conformément à la loi fédérale du 6 octobre 2006 sur les prestations complémentaires à l'AVS et à l'AI (LPC RS 831.30). Ne sont pas compris: les aides cantonales complétant l’AI (571); les compléments communaux aux aides financières cantonales (571). "
 "Libellé";"522";"Ergänzungsleistungen IV";"Prestations complémentaires AI"
 "Mots-clés";"522";"Ergänzungsleistungen; IV; ";"Prestations; complémentaires; AI; "
-"Contenu";"523";"Bau, Betrieb, Unterhalt oder Unterstützung von Einrichtungen für die Unterbringung, Beschäftigung, Betreuung und Förderung von invaliden Menschen;
-              Invalidenheime.
-          ";"Construction, gestion, entretien ou soutien d’établissements destinés à loger, employer, prendre en charge et promouvoir les personnes invalides;
-              Foyers pour invalides.
-          "
+"Contenu";"523";"Bau, Betrieb, Unterhalt oder Unterstützung von Einrichtungen für die Unterbringung, Beschäftigung, Betreuung und Förderung von invaliden Menschen; Invalidenheime. ";"Construction, gestion, entretien ou soutien d’établissements destinés à loger, employer, prendre en charge et promouvoir les personnes invalides; Foyers pour invalides. "
 "Libellé";"523";"Invalidenheime";"Foyers pour invalides"
 "Mots-clés";"523";"Geschützte; Werkstätten; Invalidenheim; Eingliederungsstätten; ";"Ateliers; protégés; Foyers; pour; personnes; invalides; Réinsertion; dans; la; vie; normale; "
-"Contenu";"524";"Leistungen an Invalide, die nicht in den Funktionen 521 bis 523 enthalten sind.
-          ";"Prestations aux invalides non comprises dans les fonctions 521 à 523.
-          "
+"Contenu";"524";"Leistungen an Invalide, die nicht in den Funktionen 521 bis 523 enthalten sind. ";"Prestations aux invalides non comprises dans les fonctions 521 à 523. "
 "Libellé";"524";"Leistungen an Invalide";"Prestations aux invalides"
 "Mots-clés";"524";"Invalidenfürsorge; Leistungen; an; Invalide; ";"Assistance; aux; personnes; invalides; Prestations; aux; personnes; invalides; "
-"Contenu";"531";"Verwaltung, Betrieb oder Unterstützung gemäss Bundesgesetz vom 20. Dezember 1946  über die Alters- und Hinterlassenenversicherung (AHVG) (SR 831.10);
-              Beiträge der öffentlichen Hand;
-              Ausgleichskassen und kommunale Zweigstellen.
-              Umfasst nicht:
-              Arbeitgebendenbeiträge (sind nach Aufgabenbereichen zugeordnet).
-          ";"Administration, gestion opérationnelle ou soutien conformément à la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS) (RS 831.10);
-              contributions des pouvoirs publics;
-              caisses de compensation et agences communales.
-              Ne sont pas comprises:
-              les cotisations de l’employeur (attribuées par domaine d’activité).
-          "
+"Contenu";"531";"Verwaltung, Betrieb oder Unterstützung gemäss Bundesgesetz vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG) (SR 831.10); Beiträge der öffentlichen Hand; Ausgleichskassen und kommunale Zweigstellen. Umfasst nicht: Arbeitgebendenbeiträge (sind nach Aufgabenbereichen zugeordnet). ";"Administration, gestion opérationnelle ou soutien conformément à la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS) (RS 831.10); contributions des pouvoirs publics; caisses de compensation et agences communales. Ne sont pas comprises: les cotisations de l’employeur (attribuées par domaine d’activité). "
 "Libellé";"531";"Alters- und Hinterlassenversicherung AHV";"Assurance-vieillesse et survivants AVS"
 "Mots-clés";"531";"AHV; Ausgleichskasse; Kommunale; Zweigstelle; Amt; für; berufliche; Vorsorge; ";"Assurance-vieillesse; et; survivants; (contributions,; sans; cotisations; de; l'employeur); Caisse; de; compensation; Contrôle; AVS; communal; Office; de; la; prévoyance; professionnelle; "
-"Contenu";"532";"Ergänzungsleistungen des Bundes und der Kantone gemäss Bundesgesetz vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters- Hinterlassenen- und Invalidenver-sicherung (ELG, SR 831.30);
-              Umfasst nicht:
-              Kantonale Beihilfen zur AHV (571);
-              Gemeindezuschüsse zu den kantonalen Beihilfen (571).
-          ";"Prestations complémentaires de la Confédération et des cantons conformément à la loi fédérale du 6 octobre 2006 sur les prestations complémentaires à l'AVS et à l'AI (LPC RS 831.30);
-              Ne sont pas compris:
-              les aides cantonales complétant l’AVS (571);
-              les compléments communaux aux aides financières cantonales (571).
-          "
+"Contenu";"532";"Ergänzungsleistungen des Bundes und der Kantone gemäss Bundesgesetz vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters- Hinterlassenen- und Invalidenver-sicherung (ELG, SR 831.30); Umfasst nicht: Kantonale Beihilfen zur AHV (571); Gemeindezuschüsse zu den kantonalen Beihilfen (571). ";"Prestations complémentaires de la Confédération et des cantons conformément à la loi fédérale du 6 octobre 2006 sur les prestations complémentaires à l'AVS et à l'AI (LPC RS 831.30); Ne sont pas compris: les aides cantonales complétant l’AVS (571); les compléments communaux aux aides financières cantonales (571). "
 "Libellé";"532";"Ergänzungsleistungen AHV";"Prestations complémentaires AVS"
 "Mots-clés";"532";"Ergänzungsleistungen; AHV; ";"Prestations; complémentaires; AVS; "
-"Contenu";"533";"Ruhegehälter, Überbrückungsrenten, Teuerungszulagen für Pensionierte.
-              Umfasst nicht:
-              Leistungen an das Alter (535).
-          ";"Retraites, rentes transitoires, indemnités de vie chère pour les retraités.
-              Ne sont pas comprises:
-              les prestations de vieillesse (535).
-          "
+"Contenu";"533";"Ruhegehälter, Überbrückungsrenten, Teuerungszulagen für Pensionierte. Umfasst nicht: Leistungen an das Alter (535). ";"Retraites, rentes transitoires, indemnités de vie chère pour les retraités. Ne sont pas comprises: les prestations de vieillesse (535). "
 "Libellé";"533";"Leistungen an Pensionierte";"Prestations aux retraités"
 "Mots-clés";"533";"Ruhegehälter; Pensionsleistungen; Teuerungszulagen; für; Pensionierte; ";"Pensions; de; retraite; Prestations; aux; retraités; Primes; de; renchérissement; "
-"Contenu";"534";"Altersheime, Altersresidenzen, Alterswohnungen, Alterssiedlungen (ohne medizinische Betreuung und ohne Pflege).
-              Umfasst nicht:
-              Pflegeheime, Altersheime mit Fokus Pflege (412).
-          ";"Foyers pour personnes âgées, résidences pour personnes âgées, appartements pour personnes âgées, maisons de retraite (sans suivi médical ni soins).
-              Ne sont pas compris:
-              les EMS, les homes médicalisés (412).
-          "
+"Contenu";"534";"Altersheime, Altersresidenzen, Alterswohnungen, Alterssiedlungen (ohne medizinische Betreuung und ohne Pflege). Umfasst nicht: Pflegeheime, Altersheime mit Fokus Pflege (412). ";"Foyers pour personnes âgées, résidences pour personnes âgées, appartements pour personnes âgées, maisons de retraite (sans suivi médical ni soins). Ne sont pas compris: les EMS, les homes médicalisés (412). "
 "Libellé";"534";"Wohnen im Alter (ohne Pflege)";"Logements pour aînés (sans soins)"
 "Mots-clés";"534";"Alterswohnungen; Alterssiedlung; Altersheim; ";"Appartements; pour; personnes; âgées; Cités; pour; personnes; âgées; Homes; pour; personnes; âgées; "
-"Contenu";"535";"Dienstleistungen und Beiträge für das Alter, die nicht den Funktionen 531 bis 534 enthalten sind;
-              Unterstützung von Institutionen für das Alter (z.B. Pro Senectute).
-          ";"Prestations et contributions vieillesse non comprises dans les fonctions 531 à 534;
-              soutien des institutions d’aide aux personnes âgées (par ex.Pro Senectute).
-          "
+"Contenu";"535";"Dienstleistungen und Beiträge für das Alter, die nicht den Funktionen 531 bis 534 enthalten sind; Unterstützung von Institutionen für das Alter (z.B. Pro Senectute). ";"Prestations et contributions vieillesse non comprises dans les fonctions 531 à 534; soutien des institutions d’aide aux personnes âgées (par ex.Pro Senectute). "
 "Libellé";"535";"Leistungen an das Alter";"Prestations de vieillesse"
 "Mots-clés";"535";"Altersfürsorge; Hinterlassenfürsorge; Stiftung; für; das; Alter; Pro; Senectute; ";"Assistance; aux; personnes; âgées; Assistance; aux; survivants; Fondations; pour; la; vieillesse; Pro; Senectute; "
-"Contenu";"541";"Familienzulagen gemäss Bundes- und kantonaler Gesetzgebung;
-              Familienzulagen in der Landwirtschaft.
-              Umfasst nicht:
-              Mutterschaftsversicherung (542).
-          ";"Allocations familiales selon la législation fédérale et cantonale;
-              les allocations familiales dans l’agriculture.
-              Ne sont pas comprises:
-              l’assurance-maternité (542).
-          "
+"Contenu";"541";"Familienzulagen gemäss Bundes- und kantonaler Gesetzgebung; Familienzulagen in der Landwirtschaft. Umfasst nicht: Mutterschaftsversicherung (542). ";"Allocations familiales selon la législation fédérale et cantonale; les allocations familiales dans l’agriculture. Ne sont pas comprises: l’assurance-maternité (542). "
 "Libellé";"541";"Familienzulagen";"Allocations familiales"
 "Mots-clés";"541";"Familienzulagen; in; der; Landwirtschaft; Familienzulagen; Familienausgleichskassen; ";"Allocations; familiales; dans; l'agriculture; Allocations; familiales; Caisse; de; compensation; pour; allocations; familiales; "
-"Contenu";"542";"Verwaltung, Betrieb oder Unterstützung gemäss Bundesgesetz vom 25. September 1952  über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz, EOG) (SR 834.1) sowie kantonalen Gesetzen .
-          ";"Administration, gestion opérationnelle ou soutien conformément à la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain en cas de service et de maternité (loi sur les allocations pour perte de gain, LAPG) (RS 834.1) et à la législation cantonale.
-          "
+"Contenu";"542";"Verwaltung, Betrieb oder Unterstützung gemäss Bundesgesetz vom 25. September 1952 über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz, EOG) (SR 834.1) sowie kantonalen Gesetzen . ";"Administration, gestion opérationnelle ou soutien conformément à la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain en cas de service et de maternité (loi sur les allocations pour perte de gain, LAPG) (RS 834.1) et à la législation cantonale. "
 "Libellé";"542";"Mutterschaftsversicherung";"Assurance-maternité"
 "Mots-clés";"542";"Mutterschaftsversicherung; ";"Assurance; maternité; "
-"Contenu";"543";"Bevorschussung von ausbleibenden Alimentenzahlungen und -inkassohilfe.
-          ";"Avance et aide au recouvrement de pensions alimentaires dues.
-          "
+"Contenu";"543";"Bevorschussung von ausbleibenden Alimentenzahlungen und -inkassohilfe. ";"Avance et aide au recouvrement de pensions alimentaires dues. "
 "Libellé";"543";"Alimentenbevorschussung und -inkasso";"Avance et recouvrement des pensions alimentaires"
 "Mots-clés";"543";"Alimentenbevorschussung; Alimenteninkasso; ";"Avance; sur; pension; alimentaire; Recouvrement; de; pension; alimentaire; "
-"Contenu";"544";"Massnahmen zum Schutz der Kinder und Jugendlichen. z.B. Jugendfürsorge, Kinderheime, Pro Juventute, KESB Kinderschutz. (früher Amtsvormundschaften).
-              Enthält nicht:
-              KESB Erwachsenenschutz (545)
-              Behördenkosten KESB (früher Amtsvormundschaften) (140).
-          ";"Mesures destinées à protéger les enfants et les adolescents. Ex. : protection de l’enfance, homes pour enfants,  Pro Juventute, APEA protection de l’enfant (anciennement autorité de tutelle).
-              Ne comprend pas:
-              APEA protection de l'adulte (545)
-              Frais administratifs de l’APEA (anciennement autorité de tutelle) (140).
-          "
+"Contenu";"544";"Massnahmen zum Schutz der Kinder und Jugendlichen. z.B. Jugendfürsorge, Kinderheime, Pro Juventute, KESB Kinderschutz. (früher Amtsvormundschaften). Enthält nicht: KESB Erwachsenenschutz (545) Behördenkosten KESB (früher Amtsvormundschaften) (140). ";"Mesures destinées à protéger les enfants et les adolescents. Ex. : protection de l’enfance, homes pour enfants, Pro Juventute, APEA protection de l’enfant (anciennement autorité de tutelle). Ne comprend pas: APEA protection de l'adulte (545) Frais administratifs de l’APEA (anciennement autorité de tutelle) (140). "
 "Libellé";"544";"Jugendschutz";"Protection de la jeunesse"
 "Mots-clés";"544";"Pestalozzi-Stiftung; Erziehungsheim; Kinderheime; Jugendämter; Pro; Juventute; Jugendfürsorge; Kinderschutz; KESB; (Kinder-; und; Erwachsenenschutzbehörde); ";"Fondation; Pestalozzi; Foyers; de; rééducation; Homes; d'enfants; Office; des; mineurs; Pro; Juventute; Protection; de; la; jeunesse; Protection; des; enfants; APEA; (Autorité; de; protection; de; l'enfant; et; de; l'adulte); "
-"Contenu";"545";"Massnahmen zum Schutz und zur Unterstützung von Familien. z.B. Familienberatung, Mutterschaftsbeihilfen, GeburtsbeihilfenKinderhorte und –krippen, KESB Erwachsenenschutz (früher Berufsbeistandschaften, Amtsvormundschaften).
-              Umfasst nicht:
-              Mutterschaftsversicherung (542).
-              KESB: Kinderschutz (544)
-              Behördenkosten KESB (früher Berufsbeistandschaften,  Amtsvormundschaften) (140)
-          ";"Mesures destinées à protéger et à soutenir les familles. Ex. : conseil conjugal, allocations de maternité, allocations de naissance, garderies et crèches, APEA protection de l’adulte (anciennement curatelles professionnelles, autorité de tutelle).
-              Ne comprend pas:
-              l’assurance-maternité (542).
-              APEA protection de l'enfant (544)
-              Frais administratifs de l’APEA (anciennement curatelles  professionnelles, autorité de tutelle) (140).
-          "
+"Contenu";"545";"Massnahmen zum Schutz und zur Unterstützung von Familien. z.B. Familienberatung, Mutterschaftsbeihilfen, GeburtsbeihilfenKinderhorte und –krippen, KESB Erwachsenenschutz (früher Berufsbeistandschaften, Amtsvormundschaften). Umfasst nicht: Mutterschaftsversicherung (542). KESB: Kinderschutz (544) Behördenkosten KESB (früher Berufsbeistandschaften, Amtsvormundschaften) (140) ";"Mesures destinées à protéger et à soutenir les familles. Ex. : conseil conjugal, allocations de maternité, allocations de naissance, garderies et crèches, APEA protection de l’adulte (anciennement curatelles professionnelles, autorité de tutelle). Ne comprend pas: l’assurance-maternité (542). APEA protection de l'enfant (544) Frais administratifs de l’APEA (anciennement curatelles professionnelles, autorité de tutelle) (140). "
 "Libellé";"545";"Leistungen an Familien";"Prestations aux familles"
 "Mots-clés";"545";"Kinderhorte; Kinderkrippen; Familienberatung; Eheberatung; Familien,; Leistungen; Leistungen; an; Familien; Familienschutz; KESB; (Kinder-; und; Erwachsenenschutzbehörde); ";"Garderies; d'enfants; Crèches; Conseil; aux; familles; Conseil; conjugal; Familles,; prestations; Prestations; aux; familles; Protection; de; la; famille; APEA; (Autorité; de; protection; de; l'enfant; et; de; l'adulte); "
-"Contenu";"551";"Verwaltung, Betrieb oder Unterstützung gemäss Bundesgesetz vom 25. Juni 1982  über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (Arbeitslosenversicherungsgesetz, AVIG) (SR 837.0);
-              Beiträge der öffentlichen Hand.
-              Umfasst nicht:
-              Arbeitgebendenbeiträge (sind nach Aufgabenbereichen zugeordnet).
-          ";"Administration, gestion opérationnelle ou soutien conformément à la loi du 25 juin 1982 sur l’assurance-chômage obligatoire et l’indemnité en cas d’insolvabilité (loi sur l’assurance chômage, LACI) (RS 837.0);
-              contributions des pouvoirs publics.
-              Ne sont pas comprises:
-              les cotisations de l’employeur (attribuées par domaine d’activité).
-          "
+"Contenu";"551";"Verwaltung, Betrieb oder Unterstützung gemäss Bundesgesetz vom 25. Juni 1982 über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (Arbeitslosenversicherungsgesetz, AVIG) (SR 837.0); Beiträge der öffentlichen Hand. Umfasst nicht: Arbeitgebendenbeiträge (sind nach Aufgabenbereichen zugeordnet). ";"Administration, gestion opérationnelle ou soutien conformément à la loi du 25 juin 1982 sur l’assurance-chômage obligatoire et l’indemnité en cas d’insolvabilité (loi sur l’assurance chômage, LACI) (RS 837.0); contributions des pouvoirs publics. Ne sont pas comprises: les cotisations de l’employeur (attribuées par domaine d’activité). "
 "Libellé";"551";"Arbeitslosenversicherung";"Assurance-chômage"
 "Mots-clés";"551";"ALV; Arbeitslosenkassenbeiträge; (ohne; Arbeitgeberbeiträge); Arbeitslosenversicherung; ";"AC; Assurance-chômage; (contributions,; sans; cotisations; de; l'employeur); Assurance-chômage; "
-"Contenu";"552";"Individuelle Leistungen an Arbeitslose, die nicht in der Funktion 551 enthalten sindu.a. Überbrückungsleistungen.
-              Umfasst nicht:
-              Regionale Arbeitsvermittlungszentren.
-          ";"Prestations individuelles aux chômeurs non comprises dans la fonction 551entre autres, prestations transitoires.
-              Ne sont pas compris:
-              les offices régionaux de placement.
-          "
+"Contenu";"552";"Individuelle Leistungen an Arbeitslose, die nicht in der Funktion 551 enthalten sindu.a. Überbrückungsleistungen. Umfasst nicht: Regionale Arbeitsvermittlungszentren. ";"Prestations individuelles aux chômeurs non comprises dans la fonction 551entre autres, prestations transitoires. Ne sont pas compris: les offices régionaux de placement. "
 "Libellé";"552";"Leistungen an Arbeitslose";"Prestations aux chômeurs"
 "Mots-clés";"552";"Arbeitslosenfürsorge; Arbeitslosenunterstützungen; Überbrückungsleistungen; ";"Assistance; aux; chômeurs; Soutien; aux; chômeurs; Prestations; transitoires; "
-"Contenu";"559";"Verwaltung und Dienstleistungen im Bereich der Arbeitslosigkeit nicht anderweitig genanntRegionale Arbeitsvermittlungszentren.
-          ";"Administration et prestations dans le domaine du chômage, dans la mesure où elles ne sont pas mentionnées ailleursoffices régionaux de placement.
-          "
+"Contenu";"559";"Verwaltung und Dienstleistungen im Bereich der Arbeitslosigkeit nicht anderweitig genanntRegionale Arbeitsvermittlungszentren. ";"Administration et prestations dans le domaine du chômage, dans la mesure où elles ne sont pas mentionnées ailleursoffices régionaux de placement. "
 "Libellé";"559";"Arbeitslosigkeit, n. a. g.";"Chômage, non mentionné ailleurs"
 "Mots-clés";"559";"Arbeitsmarktliche; Massnahmen; Arbeitsämter; Arbeitsvermittlung; Arbeitsbeschaffung; ";"Mesures; relatives; au; marché; du; travail; Office; du; travail; Placement; des; chômeurs; Recherche; de; travail; "
-"Contenu";"560";"Verwaltung, Bau, Unterhalt und Betrieb von Sozialwohnungen;
-              Unterstützungen in Form von Leistungen wie z.B. Mietzinszuschüsse, Zahlungen um die gegenwärtigen Wohnkosten für Eigenheimbesitzer zu erleichtern (d.h. Beiträge an Hypothekentilgungen und Zinszahlungen).
-              Umfasst nicht:
-              Wohnbauförderung (790).
-          ";"Administration, construction, entretien et exploitation de logements sociaux;
-              prestations de soutien telles qu'allocations de loyer ou paiements destinés à alléger la charge hypothécaire des propriétaires de logement (c.-à-d. aides à l’amortissement de l’hypothèque ou au paiement des intérêts).
-              Ne sont pas compris:
-              l’encouragement à la construction de logements (790).
-          "
+"Contenu";"560";"Verwaltung, Bau, Unterhalt und Betrieb von Sozialwohnungen; Unterstützungen in Form von Leistungen wie z.B. Mietzinszuschüsse, Zahlungen um die gegenwärtigen Wohnkosten für Eigenheimbesitzer zu erleichtern (d.h. Beiträge an Hypothekentilgungen und Zinszahlungen). Umfasst nicht: Wohnbauförderung (790). ";"Administration, construction, entretien et exploitation de logements sociaux; prestations de soutien telles qu'allocations de loyer ou paiements destinés à alléger la charge hypothécaire des propriétaires de logement (c.-à-d. aides à l’amortissement de l’hypothèque ou au paiement des intérêts). Ne sont pas compris: l’encouragement à la construction de logements (790). "
 "Libellé";"560";"Sozialer Wohnungsbau";"Construction de logements sociaux"
 "Mots-clés";"560";"Wohnungsfürsorge; Mietzinszuschuss; sozialer; Wohungsbau; ";"Aides; pour; le; logement; Allocations; de; loyer; Encouragement; à; la; construction; de; logements; sociaux; "
-"Contenu";"571";"Kantonale Beihilfen zu AHV/IV;
-              Gemeindezuschüsse zu den kantonalen Beihilfen.
-              Umfasst nicht:
-               Ergänzungsleistungen IV gemäss Bundesgesetz vom 19. Juni 1959  über die Invalidenversicherung (IVG) (522) (SR 831.20);
-              Ergänzungsleistungen AHV gemäss Bundesgesetz vom 20. Dezember 1946  über die Alters- und Hinterlassenenversicherung (AHVG) (532) (SR 831.10).
-          ";"Aides cantonales complétant l’AVS/AI;
-              compléments communaux aux aides financières cantonales.
-              Ne sont pas comprises:
-              les prestations complémentaires à l’AI conformément à la loi fédérale du 19 juin 1959 (RS 831.20) sur l’assurance-invalidité (LAI) (522) (RS 831.20);
-              les prestations complémentaires à l’AVS conformément à la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)(RS 831.10) (532) (RS 831.10).
-          "
+"Contenu";"571";"Kantonale Beihilfen zu AHV/IV; Gemeindezuschüsse zu den kantonalen Beihilfen. Umfasst nicht: Ergänzungsleistungen IV gemäss Bundesgesetz vom 19. Juni 1959 über die Invalidenversicherung (IVG) (522) (SR 831.20); Ergänzungsleistungen AHV gemäss Bundesgesetz vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG) (532) (SR 831.10). ";"Aides cantonales complétant l’AVS/AI; compléments communaux aux aides financières cantonales. Ne sont pas comprises: les prestations complémentaires à l’AI conformément à la loi fédérale du 19 juin 1959 (RS 831.20) sur l’assurance-invalidité (LAI) (522) (RS 831.20); les prestations complémentaires à l’AVS conformément à la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)(RS 831.10) (532) (RS 831.10). "
 "Libellé";"571";"Beihilfen";"Aides"
 "Mots-clés";"571";"Beihilfen; zur; AHV/IV; Altersbeihilfen; Gemeindezuschüsse; zu; Beihilfen; ";"Aides; financières; complétant; l'AVS/AI; Allocations; de; vieillesse; Complément; communal; aux; aides; financières; "
-"Contenu";"572";"Unterstützung gemäss kantonaler Sozialhilfegesetzgebung.
-          ";"Soutien selon la législation cantonale en matière d’aide sociale.
-          "
+"Contenu";"572";"Unterstützung gemäss kantonaler Sozialhilfegesetzgebung. ";"Soutien selon la législation cantonale en matière d’aide sociale. "
 "Libellé";"572";"Wirtschaftliche Hilfe";"Aide économique"
 "Mots-clés";"572";"Armenkommissionen; Armenpflege; Armenunterstützung; Armenunterstützung; Armenwesen; Ausgesteuerte; Arbeitslose; Freibetten; in; Spitälern; Sozialhilfe; Wirtschaftliche; Hilfe; ";"Commission; d'aide; aux; indigents; Aide; aux; indigents; Assistance; aux; indigents; Secours; aux; économiquement; faibles; Assistance; publique; Chômeurs; en; fin; de; droits; Lits; libres; dans; les; hôpitaux; Aide; sociale; Aide; économique; "
-"Contenu";"573";"Dienstleistungen oder Unterstützung im Bereich des Asyl- und Flüchtlingswesens.
-          ";"Prestations ou soutien dans le domaine de la politique en matière d’asile et de réfugiés.
-          "
+"Contenu";"573";"Dienstleistungen oder Unterstützung im Bereich des Asyl- und Flüchtlingswesens. ";"Prestations ou soutien dans le domaine de la politique en matière d’asile et de réfugiés. "
 "Libellé";"573";"Asylwesen";"Politique en matière d'asile et de réfugiés"
 "Mots-clés";"573";"Integrationsförderung; für; Asylanten; Rückschaffung; von; Asylanten; Flüchtlingshilfe; Asylwesen; Ausschaffungshaft; für; Asylanten; ";"Aide; à; l'intégration; pour; demandeurs; d'asile; Rapatriement; des; requérants; d'asile; Aide; aux; réfugiés; Asyle; Détention; en; vue; de; l'expulsion; de; requérants; d'asile; "
-"Contenu";"579";"Aufgaben im Bereich Fürsorge, die keiner spezifischen Funktion zugeordnet werden können.
-              Umfasst nicht: Schulmahlzeitendienst (219)
-          ";"Tâches du domaine de l’assistance ne pouvant être rattachées à aucune fonction spécifique.
-              Ne comprend pas: service de repas à l'école (219)
-          "
+"Contenu";"579";"Aufgaben im Bereich Fürsorge, die keiner spezifischen Funktion zugeordnet werden können. Umfasst nicht: Schulmahlzeitendienst (219) ";"Tâches du domaine de l’assistance ne pouvant être rattachées à aucune fonction spécifique. Ne comprend pas: service de repas à l'école (219) "
 "Libellé";"579";"Fürsorge,  n. a. g.";"Assistance, non mentionné ailleurs"
 "Mots-clés";"579";"Mahlzeitendienst; (subventioniert); Integrationsförderung,; übrige; Opferhilfe; Krankenkassenbeiträge; für; Bedürftige; Fürsorgedirektion; Fürsorgeamt; Auslandschweizer; ";"Service; de; repas; à; domicile; (subventionné); Aide; à; l'intégration; pour; d'autres; personnes; Aide; aux; victimes; Contributions; aux; caisses-maladie; pour; indigents; Direction; des; affaires; sociales; Office; des; affaires; sociales; Suisses; de; l'étranger; "

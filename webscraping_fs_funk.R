@@ -128,7 +128,11 @@ fs_table_02 <- fs_table %>%
     mutate(Info = case_when(Label == "Mots-clés" ~ str_replace_all(Info, "\\s+", "; "),
                             TRUE ~ Info)) %>% 
     mutate(Info =  str_replace(Info, "; ", "")) %>% 
-    mutate(Info =  str_replace(Info, "\n      ", "")) %>% 
+    mutate(Info =  str_replace(Info, "\n      ", "")) %>%
+    mutate(Info = case_when(Label == "Contenu" ~ str_replace_all(Info, "\\s+", " "),
+                            TRUE ~ Info)) %>%
+    mutate(Info = case_when(Label == "Contenu" ~ str_replace_all(Info, "\n", " "),
+                            TRUE ~ Info)) %>%
     spread(key = Langue, value = Info) %>% 
     arrange(Konto)
 
